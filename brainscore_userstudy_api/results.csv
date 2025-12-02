@@ -1,0 +1,900 @@
+Oguz,0,densenet121,adv,Beagle,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_8061.JPEG
+Oguz,1,resnet50,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_2092.JPEG
+Oguz,2,convnext_tiny,adv,Dingo,Samoyed,,stimuli/adv/convnext_tiny/n02111889/n02111889_1890.JPEG
+Oguz,3,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Border terrier,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_7370.JPEG
+Oguz,4,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Australian terrier,Dingo,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02115641/n02115641_7620.JPEG
+Oguz,5,none,clean,Shih-Tzu,Shih-Tzu,,stimuli/clean/n02086240/n02086240_12501.JPEG
+Oguz,6,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Border terrier,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_4420.JPEG
+Oguz,7,resnet50,adv,Border terrier,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_1341.JPEG
+Oguz,8,densenet121,adv,Golden retriever,Dingo,,stimuli/adv/densenet121/n02115641/n02115641_7360.JPEG
+Oguz,9,resnet18,adv,Border terrier,Beagle,,stimuli/adv/resnet18/n02088364/n02088364_7062.JPEG
+Oguz,10,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_830.JPEG
+Oguz,11,none,clean,English foxhound,Dingo,,stimuli/clean/n02115641/n02115641_22391.JPEG
+Oguz,12,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Australian terrier,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_3912.JPEG
+Oguz,13,densenet121,adv,Golden retriever,Australian terrier,,stimuli/adv/densenet121/n02096294/n02096294_6911.JPEG
+Oguz,14,resnet18,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/resnet18/n02105641/n02105641_10861.JPEG
+Oguz,15,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Dingo,Shih-Tzu,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02086240/n02086240_262.JPEG
+Oguz,16,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Border terrier,Dingo,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02115641/n02115641_6161.JPEG
+Oguz,17,resnet50,adv,Border terrier,English foxhound,,stimuli/adv/resnet50/n02089973/n02089973_3571.JPEG
+Oguz,18,resnet50,adv,Samoyed,Australian terrier,,stimuli/adv/resnet50/n02096294/n02096294_4232.JPEG
+Oguz,19,convnext_tiny,adv,Rhodesian ridgeback,Australian terrier,,stimuli/adv/convnext_tiny/n02096294/n02096294_4991.JPEG
+Oguz,20,resnet50,adv,Rhodesian ridgeback,Shih-Tzu,,stimuli/adv/resnet50/n02086240/ILSVRC2012_val_00036602.JPEG
+Oguz,21,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Beagle,Shih-Tzu,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02086240/n02086240_11901.JPEG
+Oguz,22,resnet50,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_5641.JPEG
+Oguz,23,densenet121,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/densenet121/n02105641/n02105641_14402.JPEG
+Oguz,24,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02105641/n02105641_10300.JPEG
+Oguz,25,convnext_tiny,adv,Australian terrier,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_4452.JPEG
+Oguz,26,convnext_tiny,adv,Dingo,Dingo,,stimuli/adv/convnext_tiny/n02115641/n02115641_6940.JPEG
+Oguz,27,resnet50,adv,Border terrier,Beagle,,stimuli/adv/resnet50/n02088364/ILSVRC2012_val_00036340.JPEG
+Oguz,28,resnet18,adv,Old English sheepdog,Border terrier,,stimuli/adv/resnet18/n02093754/n02093754_1882.JPEG
+Oguz,29,densenet121,adv,Old English sheepdog,Samoyed,,stimuli/adv/densenet121/n02111889/n02111889_3221.JPEG
+Oguz,30,densenet121,adv,Golden retriever,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_1332.JPEG
+Oguz,31,resnet50,adv,Border terrier,English foxhound,,stimuli/adv/resnet50/n02089973/n02089973_2150.JPEG
+Oguz,32,none,clean,Shih-Tzu,Shih-Tzu,,stimuli/clean/n02086240/n02086240_7261.JPEG
+Oguz,33,none,clean,Australian terrier,Border terrier,,stimuli/clean/n02093754/n02093754_3152.JPEG
+Oguz,34,densenet121,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/densenet121/n02086240/n02086240_870.JPEG
+Oguz,35,resnet18,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet18/n02099601/n02099601_6272.JPEG
+Oguz,36,convnext_tiny,adv,Samoyed,Samoyed,,stimuli/adv/convnext_tiny/n02111889/n02111889_1660.JPEG
+Oguz,37,resnet18,adv,Beagle,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_7480.JPEG
+Oguz,38,densenet121,adv,Golden retriever,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_5382.JPEG
+Oguz,39,densenet121,adv,Border terrier,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_3312.JPEG
+Oguz,40,convnext_tiny,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/convnext_tiny/n02086240/n02086240_2961.JPEG
+Oguz,41,densenet121,adv,Old English sheepdog,Australian terrier,,stimuli/adv/densenet121/n02096294/n02096294_3971.JPEG
+Oguz,42,resnet18,adv,Australian terrier,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_10992.JPEG
+Oguz,43,densenet121,adv,Border terrier,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_4960.JPEG
+Oguz,44,resnet50,adv,Border terrier,English foxhound,,stimuli/adv/resnet50/n02089973/n02089973_6412.JPEG
+Oguz,45,densenet121,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/densenet121/n02105641/n02105641_9321.JPEG
+Oguz,46,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Samoyed,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02111889/n02111889_11571.JPEG
+Oguz,47,convnext_tiny,adv,Shih-Tzu,Samoyed,,stimuli/adv/convnext_tiny/n02111889/n02111889_1822.JPEG
+Oguz,48,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Rhodesian ridgeback,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_10190.JPEG
+Oguz,49,none,clean,Golden retriever,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_5650.JPEG
+Oguz,50,convnext_tiny,adv,Australian terrier,Australian terrier,,stimuli/adv/convnext_tiny/n02096294/n02096294_2920.JPEG
+Oguz,51,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Border terrier,Beagle,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02088364/n02088364_7281.JPEG
+Oguz,52,resnet18,adv,Old English sheepdog,Golden retriever,,stimuli/adv/resnet18/n02099601/n02099601_521.JPEG
+Oguz,53,none,clean,Samoyed,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_14840.JPEG
+Oguz,54,none,clean,Golden retriever,Samoyed,,stimuli/clean/n02111889/n02111889_5832.JPEG
+Oguz,55,none,clean,Old English sheepdog,Old English sheepdog,,stimuli/clean/n02105641/n02105641_1380.JPEG
+Oguz,56,resnet50,adv,Samoyed,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_15420.JPEG
+Oguz,57,none,clean,Shih-Tzu,Australian terrier,,stimuli/clean/n02096294/n02096294_1161.JPEG
+Oguz,58,none,clean,Border terrier,Beagle,,stimuli/clean/n02088364/n02088364_4770.JPEG
+Oguz,59,none,clean,Border terrier,English foxhound,,stimuli/clean/n02089973/n02089973_80.JPEG
+Oguz,60,convnext_tiny,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_10692.JPEG
+Oguz,61,densenet121,adv,Shih-Tzu,Rhodesian ridgeback,,stimuli/adv/densenet121/n02087394/n02087394_10040.JPEG
+Oguz,62,none,clean,Golden retriever,Samoyed,,stimuli/clean/n02111889/n02111889_1791.JPEG
+Oguz,63,none,clean,Border terrier,Border terrier,,stimuli/clean/n02093754/n02093754_5192.JPEG
+Oguz,64,resnet18,adv,Border terrier,Beagle,,stimuli/adv/resnet18/n02088364/n02088364_1411.JPEG
+Oguz,65,convnext_tiny,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_tiny/n02099601/n02099601_2741.JPEG
+Oguz,66,resnet18,adv,Australian terrier,Beagle,,stimuli/adv/resnet18/n02088364/n02088364_3872.JPEG
+Oguz,67,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_2030.JPEG
+Oguz,68,none,clean,Rhodesian ridgeback,Dingo,,stimuli/clean/n02115641/n02115641_81.JPEG
+Oguz,69,resnet18,adv,Rhodesian ridgeback,Old English sheepdog,,stimuli/adv/resnet18/n02105641/n02105641_7611.JPEG
+Oguz,70,none,clean,Rhodesian ridgeback,English foxhound,,stimuli/clean/n02089973/n02089973_1651.JPEG
+Oguz,71,resnet18,adv,Border terrier,Dingo,,stimuli/adv/resnet18/n02115641/n02115641_18180.JPEG
+Oguz,72,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_411.JPEG
+Oguz,73,resnet18,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/resnet18/n02086240/n02086240_12122.JPEG
+Oguz,74,none,clean,Shih-Tzu,Shih-Tzu,,stimuli/clean/n02086240/n02086240_8600.JPEG
+Oguz,75,resnet18,adv,Border terrier,Beagle,,stimuli/adv/resnet18/n02088364/n02088364_6211.JPEG
+Oguz,76,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,English foxhound,Beagle,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02088364/n02088364_4562.JPEG
+Oguz,77,convnext_tiny,adv,English foxhound,Beagle,,stimuli/adv/convnext_tiny/n02088364/n02088364_5481.JPEG
+Oguz,78,none,clean,Australian terrier,Dingo,,stimuli/clean/n02115641/n02115641_6680.JPEG
+Oguz,79,convnext_tiny,adv,Golden retriever,Samoyed,,stimuli/adv/convnext_tiny/n02111889/n02111889_13580.JPEG
+Oguz,80,resnet50,adv,Border terrier,Border terrier,,stimuli/adv/resnet50/n02093754/n02093754_811.JPEG
+Oguz,81,none,clean,Golden retriever,Golden retriever,,stimuli/clean/n02099601/n02099601_3402.JPEG
+Oguz,82,resnet50,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_3221.JPEG
+Oguz,83,resnet50,adv,Border terrier,Rhodesian ridgeback,,stimuli/adv/resnet50/n02087394/n02087394_29021.JPEG
+Oguz,84,none,clean,Golden retriever,Golden retriever,,stimuli/clean/n02099601/n02099601_6422.JPEG
+Oguz,85,densenet121,adv,Shih-Tzu,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_2312.JPEG
+Oguz,86,resnet50,adv,Border terrier,Rhodesian ridgeback,,stimuli/adv/resnet50/n02087394/n02087394_101.JPEG
+Oguz,87,none,clean,Dingo,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_8912.JPEG
+Oguz,88,resnet18,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_450.JPEG
+Oguz,89,convnext_tiny,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_tiny/n02099601/n02099601_10560.JPEG
+Oguz,90,none,clean,Golden retriever,Samoyed,,stimuli/clean/n02111889/n02111889_9931.JPEG
+Oguz,91,densenet121,adv,Border terrier,Rhodesian ridgeback,,stimuli/adv/densenet121/n02087394/n02087394_10880.JPEG
+Oguz,92,convnext_tiny,adv,Australian terrier,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_2342.JPEG
+Oguz,93,none,clean,Dingo,English foxhound,,stimuli/clean/n02089973/n02089973_980.JPEG
+Oguz,94,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Dingo,Dingo,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02115641/n02115641_11001.JPEG
+Oguz,95,resnet50,adv,Dingo,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_8281.JPEG
+Oguz,96,convnext_tiny,adv,Old English sheepdog,Shih-Tzu,,stimuli/adv/convnext_tiny/n02086240/n02086240_2.JPEG
+Oguz,97,none,clean,Golden retriever,Australian terrier,,stimuli/clean/n02096294/n02096294_1160.JPEG
+Oguz,98,resnet18,adv,Border terrier,English foxhound,,stimuli/adv/resnet18/n02089973/ILSVRC2012_val_00007850.JPEG
+Oguz,99,none,clean,Old English sheepdog,Old English sheepdog,,stimuli/clean/n02105641/n02105641_14640.JPEG
+Soroush,0,resnet50,adv,Shih-Tzu,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_14402.JPEG
+Soroush,1,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02086240/n02086240_8600.JPEG
+Soroush,2,densenet121,adv,Rhodesian ridgeback,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_3571.JPEG
+Soroush,3,densenet121,adv,Golden retriever,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_2741.JPEG
+Soroush,4,none,clean,Golden retriever,Golden retriever,,stimuli/clean/n02099601/n02099601_521.JPEG
+Soroush,5,densenet121,adv,English foxhound,Old English sheepdog,,stimuli/adv/densenet121/n02105641/n02105641_7611.JPEG
+Soroush,6,none,clean,Beagle,Beagle,,stimuli/clean/n02088364/n02088364_4562.JPEG
+Soroush,7,none,clean,Shih-Tzu,Australian terrier,,stimuli/clean/n02096294/n02096294_411.JPEG
+Soroush,8,convnext_tiny,adv,Shih-Tzu,Australian terrier,,stimuli/adv/convnext_tiny/n02096294/n02096294_1161.JPEG
+Soroush,9,resnet50,adv,Dingo,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_7360.JPEG
+Soroush,10,resnet50,adv,Dingo,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_11001.JPEG
+Soroush,11,none,clean,Border terrier,Border terrier,,stimuli/clean/n02093754/n02093754_5192.JPEG
+Soroush,12,resnet50,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/resnet50/n02087394/n02087394_8912.JPEG
+Soroush,13,resnet50,adv,Rhodesian ridgeback,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_5382.JPEG
+Soroush,14,convnext_tiny,adv,Australian terrier,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_2092.JPEG
+Soroush,15,none,clean,Shih-Tzu,Old English sheepdog,,stimuli/clean/n02105641/n02105641_10300.JPEG
+Soroush,16,resnet50,adv,Beagle,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_1341.JPEG
+Soroush,17,resnet50,adv,Dingo,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_6940.JPEG
+Soroush,18,none,clean,Old English sheepdog,Old English sheepdog,,stimuli/clean/n02105641/n02105641_9321.JPEG
+Soroush,19,resnet18,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet18/n02099601/n02099601_6272.JPEG
+Soroush,20,resnet18,adv,Old English sheepdog,Shih-Tzu,,stimuli/adv/resnet18/n02086240/n02086240_11901.JPEG
+Soroush,21,resnet50,adv,Golden retriever,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_4770.JPEG
+Soroush,22,densenet121,adv,Beagle,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_1651.JPEG
+Soroush,23,resnet18,adv,Beagle,English foxhound,,stimuli/adv/resnet18/n02089973/n02089973_6412.JPEG
+Soroush,24,densenet121,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/densenet121/n02087394/n02087394_10992.JPEG
+Soroush,25,none,clean,Rhodesian ridgeback,Beagle,,stimuli/clean/n02088364/n02088364_3872.JPEG
+Soroush,26,resnet18,adv,Dingo,English foxhound,,stimuli/adv/resnet18/n02089973/n02089973_80.JPEG
+Soroush,27,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Rhodesian ridgeback,Dingo,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02115641/n02115641_81.JPEG
+Soroush,28,resnet18,adv,Border terrier,Australian terrier,,stimuli/adv/resnet18/n02096294/n02096294_3971.JPEG
+Soroush,29,none,clean,Shih-Tzu,Shih-Tzu,,stimuli/clean/n02086240/ILSVRC2012_val_00036602.JPEG
+Soroush,30,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,English foxhound,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_811.JPEG
+Soroush,31,convnext_tiny,adv,Beagle,Dingo,,stimuli/adv/convnext_tiny/n02115641/n02115641_15420.JPEG
+Soroush,32,convnext_tiny,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_10692.JPEG
+Soroush,33,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Beagle,Beagle,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02088364/n02088364_6211.JPEG
+Soroush,34,densenet121,adv,Border terrier,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_3912.JPEG
+Soroush,35,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Australian terrier,Samoyed,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02111889/n02111889_1791.JPEG
+Soroush,36,resnet18,adv,English foxhound,Dingo,,stimuli/adv/resnet18/n02115641/n02115641_6161.JPEG
+Soroush,37,resnet50,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_10861.JPEG
+Soroush,38,resnet18,adv,Australian terrier,Border terrier,,stimuli/adv/resnet18/n02093754/n02093754_4452.JPEG
+Soroush,39,convnext_tiny,adv,Dingo,Dingo,,stimuli/adv/convnext_tiny/n02115641/n02115641_7620.JPEG
+Soroush,40,resnet18,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_101.JPEG
+Soroush,41,densenet121,adv,Australian terrier,Australian terrier,,stimuli/adv/densenet121/n02096294/n02096294_2920.JPEG
+Soroush,42,resnet50,adv,Golden retriever,Border terrier,,stimuli/adv/resnet50/n02093754/n02093754_4420.JPEG
+Soroush,43,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Rhodesian ridgeback,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02087394/n02087394_10040.JPEG
+Soroush,44,convnext_tiny,adv,Beagle,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_3312.JPEG
+Soroush,45,none,clean,Rhodesian ridgeback,English foxhound,,stimuli/clean/n02089973/n02089973_4960.JPEG
+Soroush,46,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Border terrier,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_10190.JPEG
+Soroush,47,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02087394/n02087394_29021.JPEG
+Soroush,48,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02099601/n02099601_3221.JPEG
+Soroush,49,convnext_tiny,adv,Beagle,Beagle,,stimuli/adv/convnext_tiny/n02088364/n02088364_7281.JPEG
+Soroush,50,none,clean,Beagle,Beagle,,stimuli/clean/n02088364/n02088364_1411.JPEG
+Soroush,51,none,clean,Rhodesian ridgeback,Border terrier,,stimuli/clean/n02093754/n02093754_1882.JPEG
+Soroush,52,none,clean,Old English sheepdog,Shih-Tzu,,stimuli/clean/n02086240/n02086240_12501.JPEG
+Soroush,53,resnet50,adv,Australian terrier,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_6680.JPEG
+Soroush,54,convnext_tiny,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_8281.JPEG
+Soroush,55,resnet18,adv,Border terrier,Old English sheepdog,,stimuli/adv/resnet18/n02105641/n02105641_14640.JPEG
+Soroush,56,convnext_tiny,adv,English foxhound,Beagle,,stimuli/adv/convnext_tiny/n02088364/n02088364_7062.JPEG
+Soroush,57,none,clean,English foxhound,Shih-Tzu,,stimuli/clean/n02086240/n02086240_12122.JPEG
+Soroush,58,none,clean,English foxhound,Samoyed,,stimuli/clean/n02111889/n02111889_11571.JPEG
+Soroush,59,resnet50,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_1380.JPEG
+Soroush,60,resnet18,adv,Rhodesian ridgeback,English foxhound,,stimuli/adv/resnet18/n02089973/n02089973_980.JPEG
+Soroush,61,resnet50,adv,Australian terrier,Border terrier,,stimuli/adv/resnet50/n02093754/n02093754_2312.JPEG
+Soroush,62,densenet121,adv,Beagle,Beagle,,stimuli/adv/densenet121/n02088364/ILSVRC2012_val_00036340.JPEG
+Soroush,63,convnext_tiny,adv,Australian terrier,Samoyed,,stimuli/adv/convnext_tiny/n02111889/n02111889_9931.JPEG
+Soroush,64,densenet121,adv,Old English sheepdog,Samoyed,,stimuli/adv/densenet121/n02111889/n02111889_1660.JPEG
+Soroush,65,none,clean,Border terrier,Samoyed,,stimuli/clean/n02111889/n02111889_5832.JPEG
+Soroush,66,resnet18,adv,Old English sheepdog,Beagle,,stimuli/adv/resnet18/n02088364/n02088364_5481.JPEG
+Soroush,67,resnet18,adv,Rhodesian ridgeback,Golden retriever,,stimuli/adv/resnet18/n02099601/n02099601_6422.JPEG
+Soroush,68,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,English foxhound,Dingo,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02115641/n02115641_18180.JPEG
+Soroush,69,none,clean,English foxhound,Shih-Tzu,,stimuli/clean/n02086240/n02086240_870.JPEG
+Soroush,70,densenet121,adv,Border terrier,Australian terrier,,stimuli/adv/densenet121/n02096294/n02096294_6911.JPEG
+Soroush,71,convnext_tiny,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/convnext_tiny/n02087394/n02087394_14840.JPEG
+Soroush,72,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02087394/n02087394_7480.JPEG
+Soroush,73,convnext_tiny,adv,Beagle,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_8061.JPEG
+Soroush,74,resnet50,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/resnet50/n02086240/n02086240_2.JPEG
+Soroush,75,none,clean,Old English sheepdog,Border terrier,,stimuli/clean/n02093754/n02093754_2342.JPEG
+Soroush,76,densenet121,adv,Beagle,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_3402.JPEG
+Soroush,77,none,clean,Golden retriever,Golden retriever,,stimuli/clean/n02099601/n02099601_10560.JPEG
+Soroush,78,densenet121,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/densenet121/n02087394/n02087394_5650.JPEG
+Soroush,79,none,clean,Australian terrier,Australian terrier,,stimuli/clean/n02096294/n02096294_4991.JPEG
+Soroush,80,convnext_tiny,adv,Old English sheepdog,Samoyed,,stimuli/adv/convnext_tiny/n02111889/n02111889_1822.JPEG
+Soroush,81,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_7370.JPEG
+Soroush,82,convnext_tiny,adv,Samoyed,Golden retriever,,stimuli/adv/convnext_tiny/n02099601/n02099601_5641.JPEG
+Soroush,83,none,clean,Rhodesian ridgeback,Dingo,,stimuli/clean/n02115641/n02115641_22391.JPEG
+Soroush,84,none,clean,Old English sheepdog,Samoyed,,stimuli/clean/n02111889/n02111889_1890.JPEG
+Soroush,85,convnext_tiny,adv,Old English sheepdog,Samoyed,,stimuli/adv/convnext_tiny/n02111889/n02111889_3221.JPEG
+Soroush,86,none,clean,Beagle,English foxhound,,stimuli/clean/n02089973/n02089973_2150.JPEG
+Soroush,87,densenet121,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/densenet121/n02086240/n02086240_7261.JPEG
+Soroush,88,resnet18,adv,Australian terrier,Australian terrier,,stimuli/adv/resnet18/n02096294/n02096294_1160.JPEG
+Soroush,89,densenet121,adv,Old English sheepdog,Shih-Tzu,,stimuli/adv/densenet121/n02086240/n02086240_262.JPEG
+Soroush,90,resnet18,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet18/n02099601/n02099601_1332.JPEG
+Soroush,91,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_2030.JPEG
+Soroush,92,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02087394/n02087394_10880.JPEG
+Soroush,93,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_4232.JPEG
+Soroush,94,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02087394/n02087394_450.JPEG
+Soroush,95,none,clean,Shih-Tzu,Shih-Tzu,,stimuli/clean/n02086240/n02086240_2961.JPEG
+Soroush,96,resnet50,adv,Shih-Tzu,Australian terrier,,stimuli/adv/resnet50/n02096294/n02096294_830.JPEG
+Soroush,97,resnet18,adv,Border terrier,English foxhound,,stimuli/adv/resnet18/n02089973/ILSVRC2012_val_00007850.JPEG
+Soroush,98,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_13580.JPEG
+Soroush,99,densenet121,adv,Australian terrier,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_3152.JPEG
+Xin Lei,0,none,clean,Beagle,English foxhound,,stimuli/clean/n02089973/n02089973_3571.JPEG
+Xin Lei,1,none,clean,Golden retriever,Golden retriever,,stimuli/clean/n02099601/n02099601_10560.JPEG
+Xin Lei,2,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02099601/n02099601_6272.JPEG
+Xin Lei,3,none,clean,Australian terrier,Australian terrier,,stimuli/clean/n02096294/n02096294_10190.JPEG
+Xin Lei,4,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Samoyed,Samoyed,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02111889/n02111889_1791.JPEG
+Xin Lei,5,resnet50,adv,Samoyed,Samoyed,,stimuli/adv/resnet50/n02111889/n02111889_2030.JPEG
+Xin Lei,6,resnet18,adv,Australian terrier,English foxhound,,stimuli/adv/resnet18/n02089973/n02089973_3312.JPEG
+Xin Lei,7,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Dingo,Dingo,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02115641/n02115641_7360.JPEG
+Xin Lei,8,resnet18,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_450.JPEG
+Xin Lei,9,none,clean,Border terrier,Border terrier,,stimuli/clean/n02093754/n02093754_3152.JPEG
+Xin Lei,10,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_5832.JPEG
+Xin Lei,11,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_1882.JPEG
+Xin Lei,12,resnet50,adv,Rhodesian ridgeback,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_6211.JPEG
+Xin Lei,13,densenet121,adv,Rhodesian ridgeback,Australian terrier,,stimuli/adv/densenet121/n02096294/n02096294_830.JPEG
+Xin Lei,14,resnet50,adv,Beagle,English foxhound,,stimuli/adv/resnet50/n02089973/n02089973_8061.JPEG
+Xin Lei,15,resnet18,adv,Beagle,Border terrier,,stimuli/adv/resnet18/n02093754/n02093754_2342.JPEG
+Xin Lei,16,convnext_tiny,adv,Samoyed,Samoyed,,stimuli/adv/convnext_tiny/n02111889/n02111889_1822.JPEG
+Xin Lei,17,convnext_tiny,adv,Australian terrier,Dingo,,stimuli/adv/convnext_tiny/n02115641/n02115641_6680.JPEG
+Xin Lei,18,resnet18,adv,Samoyed,Samoyed,,stimuli/adv/resnet18/n02111889/n02111889_1660.JPEG
+Xin Lei,19,resnet18,adv,Border terrier,Shih-Tzu,,stimuli/adv/resnet18/n02086240/n02086240_262.JPEG
+Xin Lei,20,resnet18,adv,English foxhound,Shih-Tzu,,stimuli/adv/resnet18/n02086240/n02086240_12501.JPEG
+Xin Lei,21,convnext_tiny,adv,Australian terrier,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_6412.JPEG
+Xin Lei,22,convnext_tiny,adv,Dingo,Dingo,,stimuli/adv/convnext_tiny/n02115641/n02115641_6940.JPEG
+Xin Lei,23,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Border terrier,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_6911.JPEG
+Xin Lei,24,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_2920.JPEG
+Xin Lei,25,resnet50,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/resnet50/n02087394/n02087394_8912.JPEG
+Xin Lei,26,convnext_tiny,adv,Beagle,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_4452.JPEG
+Xin Lei,27,resnet50,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/resnet50/n02086240/n02086240_2961.JPEG
+Xin Lei,28,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_3912.JPEG
+Xin Lei,29,convnext_tiny,adv,Australian terrier,Australian terrier,,stimuli/adv/convnext_tiny/n02096294/n02096294_411.JPEG
+Xin Lei,30,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Samoyed,Samoyed,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02111889/n02111889_13580.JPEG
+Xin Lei,31,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Old English sheepdog,Shih-Tzu,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02086240/n02086240_8600.JPEG
+Xin Lei,32,resnet50,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_2741.JPEG
+Xin Lei,33,none,clean,Australian terrier,Border terrier,,stimuli/clean/n02093754/n02093754_2312.JPEG
+Xin Lei,34,none,clean,Australian terrier,Australian terrier,,stimuli/clean/n02096294/n02096294_4232.JPEG
+Xin Lei,35,none,clean,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_10880.JPEG
+Xin Lei,36,resnet50,adv,Samoyed,Samoyed,,stimuli/adv/resnet50/n02111889/n02111889_3221.JPEG
+Xin Lei,37,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Dingo,Dingo,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02115641/n02115641_81.JPEG
+Xin Lei,38,convnext_tiny,adv,Australian terrier,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_2150.JPEG
+Xin Lei,39,resnet18,adv,Beagle,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_10040.JPEG
+Xin Lei,40,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02086240/n02086240_2.JPEG
+Xin Lei,41,none,clean,Old English sheepdog,Old English sheepdog,,stimuli/clean/n02105641/n02105641_14402.JPEG
+Xin Lei,42,resnet50,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_5641.JPEG
+Xin Lei,43,convnext_tiny,adv,Border terrier,Australian terrier,,stimuli/adv/convnext_tiny/n02096294/n02096294_1161.JPEG
+Xin Lei,44,convnext_tiny,adv,Dingo,Dingo,,stimuli/adv/convnext_tiny/n02115641/n02115641_15420.JPEG
+Xin Lei,45,resnet50,adv,Australian terrier,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_4770.JPEG
+Xin Lei,46,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Australian terrier,Old English sheepdog,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02105641/n02105641_7611.JPEG
+Xin Lei,47,none,clean,Golden retriever,Samoyed,,stimuli/clean/n02111889/n02111889_9931.JPEG
+Xin Lei,48,none,clean,Beagle,Shih-Tzu,,stimuli/clean/n02086240/n02086240_870.JPEG
+Xin Lei,49,none,clean,Old English sheepdog,Old English sheepdog,,stimuli/clean/n02105641/n02105641_9321.JPEG
+Xin Lei,50,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Samoyed,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02111889/n02111889_1890.JPEG
+Xin Lei,51,densenet121,adv,Golden retriever,Samoyed,,stimuli/adv/densenet121/n02111889/n02111889_11571.JPEG
+Xin Lei,52,convnext_tiny,adv,Australian terrier,Rhodesian ridgeback,,stimuli/adv/convnext_tiny/n02087394/n02087394_101.JPEG
+Xin Lei,53,densenet121,adv,English foxhound,Shih-Tzu,,stimuli/adv/densenet121/n02086240/n02086240_11901.JPEG
+Xin Lei,54,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02087394/n02087394_5650.JPEG
+Xin Lei,55,densenet121,adv,Shih-Tzu,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_6422.JPEG
+Xin Lei,56,none,clean,Golden retriever,Golden retriever,,stimuli/clean/n02099601/n02099601_5382.JPEG
+Xin Lei,57,resnet18,adv,Dingo,Dingo,,stimuli/adv/resnet18/n02115641/n02115641_7620.JPEG
+Xin Lei,58,densenet121,adv,Dingo,Dingo,,stimuli/adv/densenet121/n02115641/n02115641_11001.JPEG
+Xin Lei,59,resnet18,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet18/n02099601/n02099601_521.JPEG
+Xin Lei,60,densenet121,adv,Australian terrier,Rhodesian ridgeback,,stimuli/adv/densenet121/n02087394/n02087394_7480.JPEG
+Xin Lei,61,none,clean,English foxhound,Australian terrier,,stimuli/clean/n02096294/n02096294_3971.JPEG
+Xin Lei,62,convnext_tiny,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_tiny/n02099601/n02099601_3402.JPEG
+Xin Lei,63,none,clean,English foxhound,Border terrier,,stimuli/clean/n02093754/n02093754_4420.JPEG
+Xin Lei,64,none,clean,Border terrier,Shih-Tzu,,stimuli/clean/n02086240/n02086240_7261.JPEG
+Xin Lei,65,resnet18,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/resnet18/n02105641/n02105641_10692.JPEG
+Xin Lei,66,none,clean,Old English sheepdog,Old English sheepdog,,stimuli/clean/n02105641/n02105641_2092.JPEG
+Xin Lei,67,none,clean,Australian terrier,Beagle,,stimuli/clean/n02088364/ILSVRC2012_val_00036340.JPEG
+Xin Lei,68,resnet18,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/resnet18/n02086240/n02086240_12122.JPEG
+Xin Lei,69,resnet18,adv,Australian terrier,English foxhound,,stimuli/adv/resnet18/n02089973/ILSVRC2012_val_00007850.JPEG
+Xin Lei,70,resnet18,adv,Border terrier,Beagle,,stimuli/adv/resnet18/n02088364/n02088364_7281.JPEG
+Xin Lei,71,convnext_tiny,adv,Australian terrier,Beagle,,stimuli/adv/convnext_tiny/n02088364/n02088364_7062.JPEG
+Xin Lei,72,resnet50,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/resnet50/n02087394/n02087394_10992.JPEG
+Xin Lei,73,none,clean,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_29021.JPEG
+Xin Lei,74,resnet50,adv,Border terrier,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_3872.JPEG
+Xin Lei,75,resnet18,adv,Beagle,Beagle,,stimuli/adv/resnet18/n02088364/n02088364_1341.JPEG
+Xin Lei,76,none,clean,Border terrier,Beagle,,stimuli/clean/n02088364/n02088364_1411.JPEG
+Xin Lei,77,convnext_tiny,adv,Border terrier,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_7370.JPEG
+Xin Lei,78,densenet121,adv,Australian terrier,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_1651.JPEG
+Xin Lei,79,densenet121,adv,Australian terrier,Beagle,,stimuli/adv/densenet121/n02088364/n02088364_5481.JPEG
+Xin Lei,80,resnet50,adv,Australian terrier,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_4562.JPEG
+Xin Lei,81,none,clean,Rhodesian ridgeback,Dingo,,stimuli/clean/n02115641/n02115641_6161.JPEG
+Xin Lei,82,none,clean,Old English sheepdog,Old English sheepdog,,stimuli/clean/n02105641/n02105641_14640.JPEG
+Xin Lei,83,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02099601/n02099601_1332.JPEG
+Xin Lei,84,none,clean,Golden retriever,Golden retriever,,stimuli/clean/n02099601/n02099601_3221.JPEG
+Xin Lei,85,resnet18,adv,Rhodesian ridgeback,English foxhound,,stimuli/adv/resnet18/n02089973/n02089973_4960.JPEG
+Xin Lei,86,none,clean,Dingo,Dingo,,stimuli/clean/n02115641/n02115641_22391.JPEG
+Xin Lei,87,densenet121,adv,Dingo,Australian terrier,,stimuli/adv/densenet121/n02096294/n02096294_4991.JPEG
+Xin Lei,88,densenet121,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/densenet121/n02105641/n02105641_8281.JPEG
+Xin Lei,89,convnext_tiny,adv,Border terrier,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_811.JPEG
+Xin Lei,90,densenet121,adv,Australian terrier,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_80.JPEG
+Xin Lei,91,densenet121,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/densenet121/n02087394/n02087394_14840.JPEG
+Xin Lei,92,resnet50,adv,English foxhound,Border terrier,,stimuli/adv/resnet50/n02093754/n02093754_5192.JPEG
+Xin Lei,93,none,clean,English foxhound,Shih-Tzu,,stimuli/clean/n02086240/ILSVRC2012_val_00036602.JPEG
+Xin Lei,94,resnet50,adv,Border terrier,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_18180.JPEG
+Xin Lei,95,densenet121,adv,Border terrier,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_980.JPEG
+Xin Lei,96,resnet50,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_10300.JPEG
+Xin Lei,97,densenet121,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/densenet121/n02105641/n02105641_1380.JPEG
+Xin Lei,98,densenet121,adv,Border terrier,Australian terrier,,stimuli/adv/densenet121/n02096294/n02096294_1160.JPEG
+Xin Lei,99,convnext_tiny,adv,Samoyed,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_10861.JPEG
+Javad,0,none,clean,Golden retriever,Golden retriever,,stimuli/clean/n02099601/n02099601_6272.JPEG
+Javad,1,densenet121,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/densenet121/n02087394/n02087394_14840.JPEG
+Javad,2,resnet50,adv,Samoyed,Samoyed,,stimuli/adv/resnet50/n02111889/n02111889_2030.JPEG
+Javad,3,convnext_tiny,adv,Beagle,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_4960.JPEG
+Javad,4,resnet50,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_3402.JPEG
+Javad,5,resnet18,adv,Dingo,Dingo,,stimuli/adv/resnet18/n02115641/n02115641_7620.JPEG
+Javad,6,densenet121,adv,Border terrier,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_811.JPEG
+Javad,7,densenet121,adv,Golden retriever,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_1882.JPEG
+Javad,8,resnet18,adv,Rhodesian ridgeback,Old English sheepdog,,stimuli/adv/resnet18/n02105641/n02105641_7611.JPEG
+Javad,9,convnext_tiny,adv,Golden retriever,Beagle,,stimuli/adv/convnext_tiny/n02088364/n02088364_7062.JPEG
+Javad,10,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02087394/n02087394_10992.JPEG
+Javad,11,densenet121,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/densenet121/n02087394/n02087394_450.JPEG
+Javad,12,densenet121,adv,Border terrier,Rhodesian ridgeback,,stimuli/adv/densenet121/n02087394/n02087394_7480.JPEG
+Javad,13,densenet121,adv,Dingo,Dingo,,stimuli/adv/densenet121/n02115641/n02115641_11001.JPEG
+Javad,14,none,clean,Dingo,Dingo,,stimuli/clean/n02115641/n02115641_81.JPEG
+Javad,15,none,clean,Beagle,Beagle,,stimuli/clean/n02088364/n02088364_3872.JPEG
+Javad,16,convnext_tiny,adv,Old English sheepdog,Shih-Tzu,,stimuli/adv/convnext_tiny/n02086240/n02086240_8600.JPEG
+Javad,17,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Old English sheepdog,Shih-Tzu,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02086240/n02086240_870.JPEG
+Javad,18,convnext_tiny,adv,Samoyed,Samoyed,,stimuli/adv/convnext_tiny/n02111889/n02111889_9931.JPEG
+Javad,19,resnet50,adv,Rhodesian ridgeback,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_6680.JPEG
+Javad,20,densenet121,adv,Dingo,Dingo,,stimuli/adv/densenet121/n02115641/n02115641_6940.JPEG
+Javad,21,resnet50,adv,English foxhound,Border terrier,,stimuli/adv/resnet50/n02093754/n02093754_2342.JPEG
+Javad,22,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Dingo,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02115641/n02115641_18180.JPEG
+Javad,23,resnet18,adv,Australian terrier,English foxhound,,stimuli/adv/resnet18/n02089973/n02089973_80.JPEG
+Javad,24,none,clean,Shih-Tzu,Shih-Tzu,,stimuli/clean/n02086240/n02086240_2.JPEG
+Javad,25,densenet121,adv,Australian terrier,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_980.JPEG
+Javad,26,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_5832.JPEG
+Javad,27,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02087394/n02087394_10040.JPEG
+Javad,28,none,clean,Golden retriever,Dingo,,stimuli/clean/n02115641/n02115641_15420.JPEG
+Javad,29,none,clean,Golden retriever,Australian terrier,,stimuli/clean/n02096294/n02096294_830.JPEG
+Javad,30,none,clean,Old English sheepdog,Old English sheepdog,,stimuli/clean/n02105641/n02105641_1380.JPEG
+Javad,31,densenet121,adv,Beagle,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_3571.JPEG
+Javad,32,resnet50,adv,Samoyed,Samoyed,,stimuli/adv/resnet50/n02111889/n02111889_1660.JPEG
+Javad,33,resnet18,adv,Border terrier,Shih-Tzu,,stimuli/adv/resnet18/n02086240/n02086240_12122.JPEG
+Javad,34,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Beagle,Beagle,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02088364/n02088364_1411.JPEG
+Javad,35,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02105641/n02105641_14402.JPEG
+Javad,36,resnet50,adv,Golden retriever,Australian terrier,,stimuli/adv/resnet50/n02096294/n02096294_2920.JPEG
+Javad,37,convnext_tiny,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_tiny/n02099601/n02099601_3221.JPEG
+Javad,38,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_4991.JPEG
+Javad,39,convnext_tiny,adv,Samoyed,Samoyed,,stimuli/adv/convnext_tiny/n02111889/n02111889_1822.JPEG
+Javad,40,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02087394/n02087394_101.JPEG
+Javad,41,none,clean,English foxhound,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_10880.JPEG
+Javad,42,resnet18,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_29021.JPEG
+Javad,43,none,clean,Shih-Tzu,Shih-Tzu,,stimuli/clean/n02086240/n02086240_7261.JPEG
+Javad,44,resnet50,adv,Rhodesian ridgeback,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_22391.JPEG
+Javad,45,none,clean,Beagle,English foxhound,,stimuli/clean/n02089973/n02089973_2150.JPEG
+Javad,46,resnet18,adv,Border terrier,Golden retriever,,stimuli/adv/resnet18/n02099601/n02099601_5641.JPEG
+Javad,47,resnet50,adv,Golden retriever,Shih-Tzu,,stimuli/adv/resnet50/n02086240/n02086240_11901.JPEG
+Javad,48,convnext_tiny,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/convnext_tiny/n02087394/n02087394_8912.JPEG
+Javad,49,convnext_tiny,adv,Beagle,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_6412.JPEG
+Javad,50,resnet18,adv,Australian terrier,Australian terrier,,stimuli/adv/resnet18/n02096294/n02096294_1160.JPEG
+Javad,51,none,clean,Australian terrier,Border terrier,,stimuli/clean/n02093754/n02093754_2312.JPEG
+Javad,52,none,clean,Border terrier,Golden retriever,,stimuli/clean/n02099601/n02099601_5382.JPEG
+Javad,53,none,clean,Border terrier,Shih-Tzu,,stimuli/clean/n02086240/n02086240_2961.JPEG
+Javad,54,resnet18,adv,Dingo,Golden retriever,,stimuli/adv/resnet18/n02099601/n02099601_6422.JPEG
+Javad,55,resnet18,adv,Beagle,Beagle,,stimuli/adv/resnet18/n02088364/n02088364_1341.JPEG
+Javad,56,none,clean,Border terrier,Border terrier,,stimuli/clean/n02093754/n02093754_4452.JPEG
+Javad,57,resnet18,adv,Samoyed,Samoyed,,stimuli/adv/resnet18/n02111889/n02111889_11571.JPEG
+Javad,58,resnet50,adv,Australian terrier,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_10300.JPEG
+Javad,59,convnext_tiny,adv,Beagle,Australian terrier,,stimuli/adv/convnext_tiny/n02096294/n02096294_3971.JPEG
+Javad,60,resnet18,adv,Border terrier,Border terrier,,stimuli/adv/resnet18/n02093754/n02093754_5192.JPEG
+Javad,61,convnext_tiny,adv,Dingo,Dingo,,stimuli/adv/convnext_tiny/n02115641/n02115641_7360.JPEG
+Javad,62,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Samoyed,Samoyed,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02111889/n02111889_1791.JPEG
+Javad,63,convnext_tiny,adv,Samoyed,Samoyed,,stimuli/adv/convnext_tiny/n02111889/n02111889_13580.JPEG
+Javad,64,resnet50,adv,Australian terrier,Australian terrier,,stimuli/adv/resnet50/n02096294/n02096294_1161.JPEG
+Javad,65,resnet50,adv,Rhodesian ridgeback,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_6161.JPEG
+Javad,66,none,clean,Golden retriever,Samoyed,,stimuli/clean/n02111889/n02111889_1890.JPEG
+Javad,67,convnext_tiny,adv,Samoyed,Samoyed,,stimuli/adv/convnext_tiny/n02111889/n02111889_3221.JPEG
+Javad,68,densenet121,adv,Samoyed,Shih-Tzu,,stimuli/adv/densenet121/n02086240/n02086240_12501.JPEG
+Javad,69,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Australian terrier,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_7370.JPEG
+Javad,70,resnet50,adv,Border terrier,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_6211.JPEG
+Javad,71,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02099601/n02099601_2741.JPEG
+Javad,72,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Samoyed,Old English sheepdog,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02105641/n02105641_10861.JPEG
+Javad,73,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Beagle,English foxhound,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02089973/n02089973_3312.JPEG
+Javad,74,none,clean,Australian terrier,Border terrier,,stimuli/clean/n02093754/n02093754_3912.JPEG
+Javad,75,none,clean,Australian terrier,Australian terrier,,stimuli/clean/n02096294/n02096294_4232.JPEG
+Javad,76,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Beagle,Beagle,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02088364/n02088364_4562.JPEG
+Javad,77,densenet121,adv,English foxhound,Shih-Tzu,,stimuli/adv/densenet121/n02086240/n02086240_262.JPEG
+Javad,78,convnext_tiny,adv,Australian terrier,Australian terrier,,stimuli/adv/convnext_tiny/n02096294/n02096294_411.JPEG
+Javad,79,densenet121,adv,Beagle,Beagle,,stimuli/adv/densenet121/n02088364/n02088364_7281.JPEG
+Javad,80,none,clean,English foxhound,English foxhound,,stimuli/clean/n02089973/ILSVRC2012_val_00007850.JPEG
+Javad,81,resnet50,adv,English foxhound,English foxhound,,stimuli/adv/resnet50/n02089973/n02089973_1651.JPEG
+Javad,82,resnet18,adv,Australian terrier,Border terrier,,stimuli/adv/resnet18/n02093754/n02093754_4420.JPEG
+Javad,83,resnet18,adv,Dingo,Australian terrier,,stimuli/adv/resnet18/n02096294/n02096294_6911.JPEG
+Javad,84,none,clean,Border terrier,Old English sheepdog,,stimuli/clean/n02105641/n02105641_9321.JPEG
+Javad,85,densenet121,adv,Golden retriever,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_521.JPEG
+Javad,86,densenet121,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/densenet121/n02086240/ILSVRC2012_val_00036602.JPEG
+Javad,87,densenet121,adv,Beagle,Beagle,,stimuli/adv/densenet121/n02088364/ILSVRC2012_val_00036340.JPEG
+Javad,88,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Border terrier,Old English sheepdog,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02105641/n02105641_8281.JPEG
+Javad,89,none,clean,Golden retriever,Golden retriever,,stimuli/clean/n02099601/n02099601_10560.JPEG
+Javad,90,resnet50,adv,Beagle,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_4770.JPEG
+Javad,91,none,clean,Australian terrier,Old English sheepdog,,stimuli/clean/n02105641/n02105641_2092.JPEG
+Javad,92,resnet50,adv,Beagle,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_5481.JPEG
+Javad,93,none,clean,Golden retriever,Australian terrier,,stimuli/clean/n02096294/n02096294_10190.JPEG
+Javad,94,resnet18,adv,English foxhound,English foxhound,,stimuli/adv/resnet18/n02089973/n02089973_8061.JPEG
+Javad,95,none,clean,Dingo,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_5650.JPEG
+Javad,96,convnext_tiny,adv,Border terrier,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_14640.JPEG
+Javad,97,resnet18,adv,Border terrier,Border terrier,,stimuli/adv/resnet18/n02093754/n02093754_3152.JPEG
+Javad,98,convnext_tiny,adv,Border terrier,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_10692.JPEG
+Javad,99,none,clean,Golden retriever,Golden retriever,,stimuli/clean/n02099601/n02099601_1332.JPEG
+Sara,0,none,clean,Golden retriever,Golden retriever,,stimuli/clean/n02099601/n02099601_6272.JPEG
+Sara,1,resnet18,adv,Border terrier,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_14840.JPEG
+Sara,2,none,clean,Beagle,English foxhound,,stimuli/clean/n02089973/n02089973_980.JPEG
+Sara,3,densenet121,adv,English foxhound,Beagle,,stimuli/adv/densenet121/n02088364/n02088364_6211.JPEG
+Sara,4,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Border terrier,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_4991.JPEG
+Sara,5,none,clean,Samoyed,Shih-Tzu,,stimuli/clean/n02086240/n02086240_2961.JPEG
+Sara,6,resnet50,adv,Shih-Tzu,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_521.JPEG
+Sara,7,none,clean,Australian terrier,Australian terrier,,stimuli/clean/n02096294/n02096294_10190.JPEG
+Sara,8,resnet18,adv,Golden retriever,Samoyed,,stimuli/adv/resnet18/n02111889/n02111889_1791.JPEG
+Sara,9,convnext_tiny,adv,Old English sheepdog,Dingo,,stimuli/adv/convnext_tiny/n02115641/n02115641_6680.JPEG
+Sara,10,resnet50,adv,Samoyed,Shih-Tzu,,stimuli/adv/resnet50/n02086240/n02086240_7261.JPEG
+Sara,11,none,clean,Samoyed,Border terrier,,stimuli/clean/n02093754/n02093754_7370.JPEG
+Sara,12,convnext_tiny,adv,Shih-Tzu,Dingo,,stimuli/adv/convnext_tiny/n02115641/n02115641_18180.JPEG
+Sara,13,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Beagle,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_1882.JPEG
+Sara,14,densenet121,adv,English foxhound,Samoyed,,stimuli/adv/densenet121/n02111889/n02111889_1890.JPEG
+Sara,15,convnext_tiny,adv,Dingo,Australian terrier,,stimuli/adv/convnext_tiny/n02096294/n02096294_3971.JPEG
+Sara,16,resnet18,adv,Samoyed,Australian terrier,,stimuli/adv/resnet18/n02096294/n02096294_4232.JPEG
+Sara,17,none,clean,Shih-Tzu,Golden retriever,,stimuli/clean/n02099601/n02099601_3402.JPEG
+Sara,18,resnet50,adv,Rhodesian ridgeback,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_1332.JPEG
+Sara,19,none,clean,Beagle,Border terrier,,stimuli/clean/n02093754/n02093754_3912.JPEG
+Sara,20,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,English foxhound,Beagle,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02088364/n02088364_3872.JPEG
+Sara,21,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Australian terrier,Samoyed,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02111889/n02111889_1822.JPEG
+Sara,22,densenet121,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/densenet121/n02105641/n02105641_14640.JPEG
+Sara,23,none,clean,Samoyed,Old English sheepdog,,stimuli/clean/n02105641/n02105641_1380.JPEG
+Sara,24,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Shih-Tzu,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02086240/n02086240_12122.JPEG
+Sara,25,resnet18,adv,Border terrier,English foxhound,,stimuli/adv/resnet18/n02089973/n02089973_8061.JPEG
+Sara,26,densenet121,adv,Australian terrier,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_2342.JPEG
+Sara,27,resnet50,adv,Shih-Tzu,Australian terrier,,stimuli/adv/resnet50/n02096294/n02096294_1161.JPEG
+Sara,28,resnet18,adv,Rhodesian ridgeback,English foxhound,,stimuli/adv/resnet18/n02089973/n02089973_3571.JPEG
+Sara,29,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Beagle,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_1160.JPEG
+Sara,30,densenet121,adv,English foxhound,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_6422.JPEG
+Sara,31,densenet121,adv,Samoyed,Shih-Tzu,,stimuli/adv/densenet121/n02086240/n02086240_2.JPEG
+Sara,32,convnext_tiny,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_14402.JPEG
+Sara,33,none,clean,Border terrier,Border terrier,,stimuli/clean/n02093754/n02093754_5192.JPEG
+Sara,34,convnext_tiny,adv,Australian terrier,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_811.JPEG
+Sara,35,none,clean,Border terrier,Australian terrier,,stimuli/clean/n02096294/n02096294_830.JPEG
+Sara,36,densenet121,adv,Australian terrier,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_4420.JPEG
+Sara,37,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Border terrier,Samoyed,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02111889/n02111889_1660.JPEG
+Sara,38,densenet121,adv,Golden retriever,Old English sheepdog,,stimuli/adv/densenet121/n02105641/n02105641_7611.JPEG
+Sara,39,densenet121,adv,Shih-Tzu,Beagle,,stimuli/adv/densenet121/n02088364/n02088364_1411.JPEG
+Sara,40,none,clean,Samoyed,Old English sheepdog,,stimuli/clean/n02105641/n02105641_8281.JPEG
+Sara,41,densenet121,adv,Border terrier,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_1651.JPEG
+Sara,42,convnext_tiny,adv,Samoyed,Shih-Tzu,,stimuli/adv/convnext_tiny/n02086240/n02086240_870.JPEG
+Sara,43,resnet50,adv,Shih-Tzu,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_7281.JPEG
+Sara,44,none,clean,Beagle,Dingo,,stimuli/clean/n02115641/n02115641_7360.JPEG
+Sara,45,none,clean,Australian terrier,Australian terrier,,stimuli/clean/n02096294/n02096294_6911.JPEG
+Sara,46,resnet50,adv,Golden retriever,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_4562.JPEG
+Sara,47,resnet50,adv,Samoyed,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_5382.JPEG
+Sara,48,densenet121,adv,Old English sheepdog,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_2741.JPEG
+Sara,49,densenet121,adv,Samoyed,Samoyed,,stimuli/adv/densenet121/n02111889/n02111889_3221.JPEG
+Sara,50,none,clean,Shih-Tzu,English foxhound,,stimuli/clean/n02089973/n02089973_4960.JPEG
+Sara,51,convnext_tiny,adv,Rhodesian ridgeback,Shih-Tzu,,stimuli/adv/convnext_tiny/n02086240/n02086240_8600.JPEG
+Sara,52,convnext_tiny,adv,Samoyed,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_2312.JPEG
+Sara,53,resnet18,adv,Australian terrier,Dingo,,stimuli/adv/resnet18/n02115641/n02115641_11001.JPEG
+Sara,54,none,clean,Border terrier,Border terrier,,stimuli/clean/n02093754/n02093754_3152.JPEG
+Sara,55,resnet18,adv,Samoyed,Shih-Tzu,,stimuli/adv/resnet18/n02086240/ILSVRC2012_val_00036602.JPEG
+Sara,56,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Old English sheepdog,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_4452.JPEG
+Sara,57,convnext_tiny,adv,Australian terrier,Rhodesian ridgeback,,stimuli/adv/convnext_tiny/n02087394/n02087394_8912.JPEG
+Sara,58,convnext_tiny,adv,Beagle,Beagle,,stimuli/adv/convnext_tiny/n02088364/n02088364_5481.JPEG
+Sara,59,convnext_tiny,adv,Rhodesian ridgeback,Beagle,,stimuli/adv/convnext_tiny/n02088364/n02088364_7062.JPEG
+Sara,60,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Samoyed,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02111889/n02111889_5832.JPEG
+Sara,61,none,clean,English foxhound,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_10880.JPEG
+Sara,62,resnet50,adv,Australian terrier,Rhodesian ridgeback,,stimuli/adv/resnet50/n02087394/n02087394_7480.JPEG
+Sara,63,none,clean,Border terrier,Dingo,,stimuli/clean/n02115641/n02115641_15420.JPEG
+Sara,64,none,clean,Golden retriever,Dingo,,stimuli/clean/n02115641/n02115641_6161.JPEG
+Sara,65,convnext_tiny,adv,English foxhound,Beagle,,stimuli/adv/convnext_tiny/n02088364/ILSVRC2012_val_00036340.JPEG
+Sara,66,resnet18,adv,Beagle,English foxhound,,stimuli/adv/resnet18/n02089973/ILSVRC2012_val_00007850.JPEG
+Sara,67,resnet50,adv,Rhodesian ridgeback,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_3221.JPEG
+Sara,68,none,clean,Samoyed,Old English sheepdog,,stimuli/clean/n02105641/n02105641_10692.JPEG
+Sara,69,resnet18,adv,Old English sheepdog,Beagle,,stimuli/adv/resnet18/n02088364/n02088364_4770.JPEG
+Sara,70,resnet18,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_10992.JPEG
+Sara,71,none,clean,Shih-Tzu,Golden retriever,,stimuli/clean/n02099601/n02099601_5641.JPEG
+Sara,72,none,clean,Rhodesian ridgeback,English foxhound,,stimuli/clean/n02089973/n02089973_80.JPEG
+Sara,73,none,clean,Beagle,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_101.JPEG
+Sara,74,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,English foxhound,Beagle,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02088364/n02088364_1341.JPEG
+Sara,75,convnext_tiny,adv,Beagle,Rhodesian ridgeback,,stimuli/adv/convnext_tiny/n02087394/n02087394_5650.JPEG
+Sara,76,resnet18,adv,Golden retriever,Samoyed,,stimuli/adv/resnet18/n02111889/n02111889_2030.JPEG
+Sara,77,resnet50,adv,Australian terrier,Samoyed,,stimuli/adv/resnet50/n02111889/n02111889_13580.JPEG
+Sara,78,none,clean,Border terrier,English foxhound,,stimuli/clean/n02089973/n02089973_6412.JPEG
+Sara,79,resnet18,adv,Samoyed,Shih-Tzu,,stimuli/adv/resnet18/n02086240/n02086240_262.JPEG
+Sara,80,densenet121,adv,Samoyed,Old English sheepdog,,stimuli/adv/densenet121/n02105641/n02105641_10861.JPEG
+Sara,81,resnet50,adv,Australian terrier,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_7620.JPEG
+Sara,82,resnet50,adv,English foxhound,Shih-Tzu,,stimuli/adv/resnet50/n02086240/n02086240_11901.JPEG
+Sara,83,convnext_tiny,adv,Samoyed,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_2092.JPEG
+Sara,84,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Australian terrier,Rhodesian ridgeback,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02087394/n02087394_29021.JPEG
+Sara,85,none,clean,Samoyed,Old English sheepdog,,stimuli/clean/n02105641/n02105641_10300.JPEG
+Sara,86,resnet18,adv,Old English sheepdog,English foxhound,,stimuli/adv/resnet18/n02089973/n02089973_3312.JPEG
+Sara,87,resnet18,adv,Shih-Tzu,Samoyed,,stimuli/adv/resnet18/n02111889/n02111889_9931.JPEG
+Sara,88,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Samoyed,Old English sheepdog,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02105641/n02105641_9321.JPEG
+Sara,89,resnet50,adv,Beagle,Rhodesian ridgeback,,stimuli/adv/resnet50/n02087394/n02087394_10040.JPEG
+Sara,90,none,clean,Rhodesian ridgeback,Golden retriever,,stimuli/clean/n02099601/n02099601_10560.JPEG
+Sara,91,densenet121,adv,Samoyed,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_2150.JPEG
+Sara,92,convnext_tiny,adv,Samoyed,Australian terrier,,stimuli/adv/convnext_tiny/n02096294/n02096294_411.JPEG
+Sara,93,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Dingo,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02115641/n02115641_22391.JPEG
+Sara,94,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Beagle,Rhodesian ridgeback,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02087394/n02087394_450.JPEG
+Sara,95,densenet121,adv,Australian terrier,Samoyed,,stimuli/adv/densenet121/n02111889/n02111889_11571.JPEG
+Sara,96,resnet18,adv,Border terrier,Australian terrier,,stimuli/adv/resnet18/n02096294/n02096294_2920.JPEG
+Sara,97,resnet50,adv,Samoyed,Shih-Tzu,,stimuli/adv/resnet50/n02086240/n02086240_12501.JPEG
+Sara,98,resnet50,adv,Dingo,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_6940.JPEG
+Sara,99,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Dingo,Dingo,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02115641/n02115641_81.JPEG
+Vida,0,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_13580.JPEG
+Vida,1,resnet18,adv,Samoyed,Samoyed,,stimuli/adv/resnet18/n02111889/n02111889_5832.JPEG
+Vida,2,convnext_tiny,adv,Border terrier,Samoyed,,stimuli/adv/convnext_tiny/n02111889/n02111889_1791.JPEG
+Vida,3,none,clean,Rhodesian ridgeback,Dingo,,stimuli/clean/n02115641/n02115641_7620.JPEG
+Vida,4,convnext_tiny,adv,Beagle,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_4960.JPEG
+Vida,5,none,clean,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_14840.JPEG
+Vida,6,densenet121,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/densenet121/n02086240/n02086240_12122.JPEG
+Vida,7,resnet50,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/resnet50/n02086240/n02086240_2961.JPEG
+Vida,8,none,clean,English foxhound,English foxhound,,stimuli/clean/n02089973/n02089973_980.JPEG
+Vida,9,densenet121,adv,Australian terrier,Old English sheepdog,,stimuli/adv/densenet121/n02105641/n02105641_2092.JPEG
+Vida,10,resnet50,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_5641.JPEG
+Vida,11,none,clean,Beagle,Beagle,,stimuli/clean/n02088364/n02088364_4562.JPEG
+Vida,12,resnet18,adv,English foxhound,English foxhound,,stimuli/adv/resnet18/n02089973/n02089973_8061.JPEG
+Vida,13,densenet121,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/densenet121/n02087394/n02087394_8912.JPEG
+Vida,14,convnext_tiny,adv,English foxhound,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_6412.JPEG
+Vida,15,none,clean,Border terrier,Border terrier,,stimuli/clean/n02093754/n02093754_5192.JPEG
+Vida,16,convnext_tiny,adv,Beagle,Beagle,,stimuli/adv/convnext_tiny/n02088364/n02088364_1411.JPEG
+Vida,17,convnext_tiny,adv,Rhodesian ridgeback,Dingo,,stimuli/adv/convnext_tiny/n02115641/n02115641_11001.JPEG
+Vida,18,resnet50,adv,Border terrier,Border terrier,,stimuli/adv/resnet50/n02093754/n02093754_3912.JPEG
+Vida,19,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02105641/n02105641_10692.JPEG
+Vida,20,densenet121,adv,Australian terrier,Australian terrier,,stimuli/adv/densenet121/n02096294/n02096294_411.JPEG
+Vida,21,resnet50,adv,English foxhound,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_6422.JPEG
+Vida,22,none,clean,English foxhound,Dingo,,stimuli/clean/n02115641/n02115641_6940.JPEG
+Vida,23,resnet50,adv,English foxhound,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_81.JPEG
+Vida,24,none,clean,English foxhound,Beagle,,stimuli/clean/n02088364/n02088364_5481.JPEG
+Vida,25,none,clean,Australian terrier,Australian terrier,,stimuli/clean/n02096294/n02096294_1161.JPEG
+Vida,26,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Samoyed,Golden retriever,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02099601/n02099601_10560.JPEG
+Vida,27,densenet121,adv,Rhodesian ridgeback,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_2342.JPEG
+Vida,28,resnet50,adv,English foxhound,Australian terrier,,stimuli/adv/resnet50/n02096294/n02096294_3971.JPEG
+Vida,29,none,clean,Beagle,Beagle,,stimuli/clean/n02088364/n02088364_1341.JPEG
+Vida,30,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,English foxhound,English foxhound,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02089973/n02089973_2150.JPEG
+Vida,31,resnet18,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/resnet18/n02105641/n02105641_10300.JPEG
+Vida,32,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Dingo,Dingo,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02115641/n02115641_6161.JPEG
+Vida,33,convnext_tiny,adv,Border terrier,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_3152.JPEG
+Vida,34,resnet18,adv,Old English sheepdog,Samoyed,,stimuli/adv/resnet18/n02111889/n02111889_11571.JPEG
+Vida,35,convnext_tiny,adv,Beagle,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_4420.JPEG
+Vida,36,resnet18,adv,Beagle,Beagle,,stimuli/adv/resnet18/n02088364/n02088364_7062.JPEG
+Vida,37,densenet121,adv,English foxhound,Dingo,,stimuli/adv/densenet121/n02115641/n02115641_15420.JPEG
+Vida,38,densenet121,adv,Dingo,Dingo,,stimuli/adv/densenet121/n02115641/n02115641_7360.JPEG
+Vida,39,densenet121,adv,Beagle,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_3221.JPEG
+Vida,40,densenet121,adv,Golden retriever,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_521.JPEG
+Vida,41,none,clean,Golden retriever,Golden retriever,,stimuli/clean/n02099601/n02099601_5382.JPEG
+Vida,42,resnet50,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_8281.JPEG
+Vida,43,convnext_tiny,adv,Beagle,Dingo,,stimuli/adv/convnext_tiny/n02115641/n02115641_18180.JPEG
+Vida,44,none,clean,Beagle,Beagle,,stimuli/clean/n02088364/ILSVRC2012_val_00036340.JPEG
+Vida,45,none,clean,Shih-Tzu,Samoyed,,stimuli/clean/n02111889/n02111889_1890.JPEG
+Vida,46,resnet50,adv,Samoyed,Samoyed,,stimuli/adv/resnet50/n02111889/n02111889_9931.JPEG
+Vida,47,none,clean,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_10992.JPEG
+Vida,48,none,clean,Old English sheepdog,Old English sheepdog,,stimuli/clean/n02105641/n02105641_10861.JPEG
+Vida,49,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02105641/n02105641_14402.JPEG
+Vida,50,convnext_tiny,adv,Beagle,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_1882.JPEG
+Vida,51,none,clean,Golden retriever,Golden retriever,,stimuli/clean/n02099601/n02099601_2741.JPEG
+Vida,52,none,clean,Shih-Tzu,Shih-Tzu,,stimuli/clean/n02086240/n02086240_870.JPEG
+Vida,53,resnet18,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/resnet18/n02105641/n02105641_1380.JPEG
+Vida,54,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02086240/n02086240_11901.JPEG
+Vida,55,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Samoyed,Old English sheepdog,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02105641/n02105641_7611.JPEG
+Vida,56,resnet18,adv,Beagle,Beagle,,stimuli/adv/resnet18/n02088364/n02088364_6211.JPEG
+Vida,57,convnext_tiny,adv,Border terrier,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_811.JPEG
+Vida,58,convnext_tiny,adv,English foxhound,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_80.JPEG
+Vida,59,resnet18,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_10040.JPEG
+Vida,60,resnet18,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet18/n02099601/n02099601_1332.JPEG
+Vida,61,none,clean,Beagle,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_7480.JPEG
+Vida,62,convnext_tiny,adv,Beagle,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_3571.JPEG
+Vida,63,densenet121,adv,Golden retriever,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_6272.JPEG
+Vida,64,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Beagle,Beagle,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02088364/n02088364_3872.JPEG
+Vida,65,resnet18,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/resnet18/n02086240/n02086240_12501.JPEG
+Vida,66,resnet18,adv,Beagle,Beagle,,stimuli/adv/resnet18/n02088364/n02088364_4770.JPEG
+Vida,67,resnet50,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/resnet50/n02086240/n02086240_2.JPEG
+Vida,68,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02087394/n02087394_101.JPEG
+Vida,69,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_830.JPEG
+Vida,70,densenet121,adv,Border terrier,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_2312.JPEG
+Vida,71,densenet121,adv,Beagle,Australian terrier,,stimuli/adv/densenet121/n02096294/n02096294_6911.JPEG
+Vida,72,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Dingo,Dingo,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02115641/n02115641_22391.JPEG
+Vida,73,resnet50,adv,Border terrier,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_6680.JPEG
+Vida,74,convnext_tiny,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_tiny/n02099601/n02099601_3402.JPEG
+Vida,75,none,clean,Australian terrier,Australian terrier,,stimuli/clean/n02096294/n02096294_10190.JPEG
+Vida,76,resnet18,adv,Australian terrier,Australian terrier,,stimuli/adv/resnet18/n02096294/n02096294_2920.JPEG
+Vida,77,resnet18,adv,English foxhound,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_29021.JPEG
+Vida,78,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_2030.JPEG
+Vida,79,resnet50,adv,Australian terrier,Australian terrier,,stimuli/adv/resnet50/n02096294/n02096294_4232.JPEG
+Vida,80,densenet121,adv,Beagle,Old English sheepdog,,stimuli/adv/densenet121/n02105641/n02105641_9321.JPEG
+Vida,81,resnet50,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/resnet50/n02086240/ILSVRC2012_val_00036602.JPEG
+Vida,82,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Rhodesian ridgeback,English foxhound,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02089973/ILSVRC2012_val_00007850.JPEG
+Vida,83,none,clean,Australian terrier,Australian terrier,,stimuli/clean/n02096294/n02096294_1160.JPEG
+Vida,84,none,clean,English foxhound,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_450.JPEG
+Vida,85,resnet18,adv,Samoyed,Samoyed,,stimuli/adv/resnet18/n02111889/n02111889_3221.JPEG
+Vida,86,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02086240/n02086240_8600.JPEG
+Vida,87,convnext_tiny,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/convnext_tiny/n02087394/n02087394_5650.JPEG
+Vida,88,densenet121,adv,Border terrier,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_4452.JPEG
+Vida,89,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_1822.JPEG
+Vida,90,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Beagle,Beagle,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02088364/n02088364_7281.JPEG
+Vida,91,none,clean,Border terrier,Border terrier,,stimuli/clean/n02093754/n02093754_7370.JPEG
+Vida,92,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02105641/n02105641_14640.JPEG
+Vida,93,resnet50,adv,Samoyed,Samoyed,,stimuli/adv/resnet50/n02111889/n02111889_1660.JPEG
+Vida,94,densenet121,adv,Samoyed,Australian terrier,,stimuli/adv/densenet121/n02096294/n02096294_4991.JPEG
+Vida,95,resnet50,adv,Border terrier,Shih-Tzu,,stimuli/adv/resnet50/n02086240/n02086240_7261.JPEG
+Vida,96,resnet18,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/resnet18/n02086240/n02086240_262.JPEG
+Vida,97,convnext_tiny,adv,Beagle,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_3312.JPEG
+Vida,98,none,clean,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_10880.JPEG
+Vida,99,resnet50,adv,Rhodesian ridgeback,English foxhound,,stimuli/adv/resnet50/n02089973/n02089973_1651.JPEG
+Sama,0,resnet18,adv,Shih-Tzu,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_101.JPEG
+Sama,1,resnet18,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_10880.JPEG
+Sama,2,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_3221.JPEG
+Sama,3,none,clean,Golden retriever,Golden retriever,,stimuli/clean/n02099601/n02099601_1332.JPEG
+Sama,4,densenet121,adv,English foxhound,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_2150.JPEG
+Sama,5,resnet50,adv,Australian terrier,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_7360.JPEG
+Sama,6,none,clean,Beagle,English foxhound,,stimuli/clean/n02089973/n02089973_3312.JPEG
+Sama,7,none,clean,Border terrier,Beagle,,stimuli/clean/n02088364/n02088364_6211.JPEG
+Sama,8,resnet18,adv,Golden retriever,Border terrier,,stimuli/adv/resnet18/n02093754/n02093754_3912.JPEG
+Sama,9,none,clean,Border terrier,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_7480.JPEG
+Sama,10,none,clean,Australian terrier,Dingo,,stimuli/clean/n02115641/n02115641_7620.JPEG
+Sama,11,none,clean,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_8912.JPEG
+Sama,12,none,clean,Old English sheepdog,Australian terrier,,stimuli/clean/n02096294/n02096294_2920.JPEG
+Sama,13,resnet50,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/resnet50/n02087394/n02087394_450.JPEG
+Sama,14,densenet121,adv,Beagle,Beagle,,stimuli/adv/densenet121/n02088364/n02088364_4562.JPEG
+Sama,15,densenet121,adv,Shih-Tzu,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_3571.JPEG
+Sama,16,resnet18,adv,Golden retriever,Border terrier,,stimuli/adv/resnet18/n02093754/n02093754_4452.JPEG
+Sama,17,convnext_tiny,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_tiny/n02099601/n02099601_3402.JPEG
+Sama,18,resnet18,adv,Old English sheepdog,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_5650.JPEG
+Sama,19,none,clean,English foxhound,Australian terrier,,stimuli/clean/n02096294/n02096294_1160.JPEG
+Sama,20,resnet50,adv,Beagle,Australian terrier,,stimuli/adv/resnet50/n02096294/n02096294_4232.JPEG
+Sama,21,resnet18,adv,Old English sheepdog,English foxhound,,stimuli/adv/resnet18/n02089973/n02089973_1651.JPEG
+Sama,22,convnext_tiny,adv,Australian terrier,Dingo,,stimuli/adv/convnext_tiny/n02115641/n02115641_22391.JPEG
+Sama,23,resnet18,adv,Dingo,Shih-Tzu,,stimuli/adv/resnet18/n02086240/n02086240_12122.JPEG
+Sama,24,convnext_tiny,adv,Samoyed,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_10861.JPEG
+Sama,25,convnext_tiny,adv,Samoyed,Shih-Tzu,,stimuli/adv/convnext_tiny/n02086240/n02086240_262.JPEG
+Sama,26,none,clean,Beagle,Border terrier,,stimuli/clean/n02093754/n02093754_1882.JPEG
+Sama,27,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Samoyed,Samoyed,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02111889/n02111889_1660.JPEG
+Sama,28,densenet121,adv,Beagle,Beagle,,stimuli/adv/densenet121/n02088364/n02088364_1341.JPEG
+Sama,29,densenet121,adv,Rhodesian ridgeback,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_811.JPEG
+Sama,30,resnet50,adv,English foxhound,Australian terrier,,stimuli/adv/resnet50/n02096294/n02096294_10190.JPEG
+Sama,31,convnext_tiny,adv,Golden retriever,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_9321.JPEG
+Sama,32,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_2030.JPEG
+Sama,33,none,clean,English foxhound,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_10040.JPEG
+Sama,34,resnet18,adv,Border terrier,Dingo,,stimuli/adv/resnet18/n02115641/n02115641_6161.JPEG
+Sama,35,none,clean,Golden retriever,Old English sheepdog,,stimuli/clean/n02105641/n02105641_1380.JPEG
+Sama,36,resnet50,adv,Beagle,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_6422.JPEG
+Sama,37,densenet121,adv,Shih-Tzu,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_7370.JPEG
+Sama,38,densenet121,adv,Rhodesian ridgeback,Old English sheepdog,,stimuli/adv/densenet121/n02105641/n02105641_10300.JPEG
+Sama,39,convnext_tiny,adv,Beagle,Shih-Tzu,,stimuli/adv/convnext_tiny/n02086240/n02086240_11901.JPEG
+Sama,40,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Australian terrier,Dingo,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02115641/n02115641_6940.JPEG
+Sama,41,none,clean,Beagle,Old English sheepdog,,stimuli/clean/n02105641/n02105641_14640.JPEG
+Sama,42,none,clean,Old English sheepdog,Shih-Tzu,,stimuli/clean/n02086240/n02086240_8600.JPEG
+Sama,43,resnet18,adv,Samoyed,Border terrier,,stimuli/adv/resnet18/n02093754/n02093754_3152.JPEG
+Sama,44,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Rhodesian ridgeback,English foxhound,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02089973/n02089973_980.JPEG
+Sama,45,convnext_tiny,adv,Beagle,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_4960.JPEG
+Sama,46,resnet50,adv,Beagle,Border terrier,,stimuli/adv/resnet50/n02093754/n02093754_4420.JPEG
+Sama,47,resnet18,adv,English foxhound,Shih-Tzu,,stimuli/adv/resnet18/n02086240/n02086240_7261.JPEG
+Sama,48,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Rhodesian ridgeback,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02087394/n02087394_10992.JPEG
+Sama,49,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Old English sheepdog,English foxhound,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02089973/n02089973_80.JPEG
+Sama,50,densenet121,adv,Samoyed,Dingo,,stimuli/adv/densenet121/n02115641/n02115641_81.JPEG
+Sama,51,convnext_tiny,adv,Samoyed,Beagle,,stimuli/adv/convnext_tiny/n02088364/n02088364_3872.JPEG
+Sama,52,none,clean,Samoyed,Shih-Tzu,,stimuli/clean/n02086240/n02086240_2.JPEG
+Sama,53,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Samoyed,Samoyed,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02111889/n02111889_1791.JPEG
+Sama,54,densenet121,adv,Golden retriever,Dingo,,stimuli/adv/densenet121/n02115641/n02115641_11001.JPEG
+Sama,55,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_4991.JPEG
+Sama,56,resnet18,adv,Border terrier,Shih-Tzu,,stimuli/adv/resnet18/n02086240/n02086240_870.JPEG
+Sama,57,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Border terrier,Shih-Tzu,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02086240/n02086240_12501.JPEG
+Sama,58,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Border terrier,Shih-Tzu,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02086240/n02086240_2961.JPEG
+Sama,59,densenet121,adv,Border terrier,Samoyed,,stimuli/adv/densenet121/n02111889/n02111889_5832.JPEG
+Sama,60,none,clean,Australian terrier,Old English sheepdog,,stimuli/clean/n02105641/n02105641_14402.JPEG
+Sama,61,resnet50,adv,Rhodesian ridgeback,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_2092.JPEG
+Sama,62,resnet50,adv,Shih-Tzu,Samoyed,,stimuli/adv/resnet50/n02111889/n02111889_1890.JPEG
+Sama,63,convnext_tiny,adv,Dingo,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_6412.JPEG
+Sama,64,none,clean,Dingo,English foxhound,,stimuli/clean/n02089973/n02089973_8061.JPEG
+Sama,65,resnet18,adv,Golden retriever,Australian terrier,,stimuli/adv/resnet18/n02096294/n02096294_411.JPEG
+Sama,66,resnet50,adv,Samoyed,Samoyed,,stimuli/adv/resnet50/n02111889/n02111889_11571.JPEG
+Sama,67,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Samoyed,Golden retriever,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02099601/n02099601_10560.JPEG
+Sama,68,resnet50,adv,Samoyed,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_8281.JPEG
+Sama,69,densenet121,adv,Golden retriever,Australian terrier,,stimuli/adv/densenet121/n02096294/n02096294_830.JPEG
+Sama,70,densenet121,adv,Rhodesian ridgeback,Beagle,,stimuli/adv/densenet121/n02088364/n02088364_1411.JPEG
+Sama,71,resnet18,adv,Rhodesian ridgeback,Border terrier,,stimuli/adv/resnet18/n02093754/n02093754_2342.JPEG
+Sama,72,resnet50,adv,Golden retriever,Rhodesian ridgeback,,stimuli/adv/resnet50/n02087394/n02087394_14840.JPEG
+Sama,73,convnext_tiny,adv,Golden retriever,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_2312.JPEG
+Sama,74,none,clean,Old English sheepdog,Shih-Tzu,,stimuli/clean/n02086240/ILSVRC2012_val_00036602.JPEG
+Sama,75,resnet50,adv,English foxhound,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_18180.JPEG
+Sama,76,resnet50,adv,Border terrier,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_4770.JPEG
+Sama,77,convnext_tiny,adv,Rhodesian ridgeback,Beagle,,stimuli/adv/convnext_tiny/n02088364/n02088364_5481.JPEG
+Sama,78,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_1822.JPEG
+Sama,79,convnext_tiny,adv,Samoyed,Golden retriever,,stimuli/adv/convnext_tiny/n02099601/n02099601_521.JPEG
+Sama,80,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_13580.JPEG
+Sama,81,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Dingo,Dingo,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02115641/n02115641_6680.JPEG
+Sama,82,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_6911.JPEG
+Sama,83,densenet121,adv,Rhodesian ridgeback,Beagle,,stimuli/adv/densenet121/n02088364/n02088364_7062.JPEG
+Sama,84,none,clean,Beagle,Dingo,,stimuli/clean/n02115641/n02115641_15420.JPEG
+Sama,85,none,clean,Border terrier,Samoyed,,stimuli/clean/n02111889/n02111889_9931.JPEG
+Sama,86,resnet50,adv,Australian terrier,English foxhound,,stimuli/adv/resnet50/n02089973/ILSVRC2012_val_00007850.JPEG
+Sama,87,resnet50,adv,Australian terrier,Australian terrier,,stimuli/adv/resnet50/n02096294/n02096294_3971.JPEG
+Sama,88,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_1161.JPEG
+Sama,89,convnext_tiny,adv,Border terrier,Golden retriever,,stimuli/adv/convnext_tiny/n02099601/n02099601_5641.JPEG
+Sama,90,convnext_tiny,adv,Border terrier,Beagle,,stimuli/adv/convnext_tiny/n02088364/n02088364_7281.JPEG
+Sama,91,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02099601/n02099601_6272.JPEG
+Sama,92,densenet121,adv,Samoyed,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_2741.JPEG
+Sama,93,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Beagle,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_5192.JPEG
+Sama,94,resnet18,adv,Beagle,Golden retriever,,stimuli/adv/resnet18/n02099601/n02099601_3221.JPEG
+Sama,95,resnet18,adv,Beagle,Old English sheepdog,,stimuli/adv/resnet18/n02105641/n02105641_7611.JPEG
+Sama,96,none,clean,Beagle,Beagle,,stimuli/clean/n02088364/ILSVRC2012_val_00036340.JPEG
+Sama,97,none,clean,Golden retriever,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_29021.JPEG
+Sama,98,densenet121,adv,Golden retriever,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_5382.JPEG
+Sama,99,convnext_tiny,adv,Border terrier,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_10692.JPEG
+Kiana,0,resnet18,adv,English foxhound,Border terrier,,stimuli/adv/resnet18/n02093754/n02093754_2342.JPEG
+Kiana,1,convnext_tiny,adv,Border terrier,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_7370.JPEG
+Kiana,2,none,clean,Beagle,Beagle,,stimuli/clean/n02088364/n02088364_7281.JPEG
+Kiana,3,resnet50,adv,Golden retriever,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_3872.JPEG
+Kiana,4,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Border terrier,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_3152.JPEG
+Kiana,5,resnet18,adv,Dingo,Dingo,,stimuli/adv/resnet18/n02115641/n02115641_7360.JPEG
+Kiana,6,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02099601/n02099601_10560.JPEG
+Kiana,7,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Old English sheepdog,Shih-Tzu,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02086240/n02086240_12501.JPEG
+Kiana,8,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,English foxhound,English foxhound,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02089973/n02089973_3312.JPEG
+Kiana,9,none,clean,Beagle,English foxhound,,stimuli/clean/n02089973/n02089973_3571.JPEG
+Kiana,10,densenet121,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/densenet121/n02086240/n02086240_12122.JPEG
+Kiana,11,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02105641/n02105641_1380.JPEG
+Kiana,12,resnet18,adv,Dingo,Dingo,,stimuli/adv/resnet18/n02115641/n02115641_6940.JPEG
+Kiana,13,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02105641/n02105641_8281.JPEG
+Kiana,14,resnet18,adv,Border terrier,Australian terrier,,stimuli/adv/resnet18/n02096294/n02096294_10190.JPEG
+Kiana,15,none,clean,Border terrier,Border terrier,,stimuli/clean/n02093754/n02093754_1882.JPEG
+Kiana,16,densenet121,adv,Shih-Tzu,Samoyed,,stimuli/adv/densenet121/n02111889/n02111889_3221.JPEG
+Kiana,17,densenet121,adv,Border terrier,Shih-Tzu,,stimuli/adv/densenet121/n02086240/n02086240_7261.JPEG
+Kiana,18,none,clean,Old English sheepdog,Old English sheepdog,,stimuli/clean/n02105641/n02105641_14402.JPEG
+Kiana,19,convnext_tiny,adv,Golden retriever,Australian terrier,,stimuli/adv/convnext_tiny/n02096294/n02096294_3971.JPEG
+Kiana,20,densenet121,adv,Golden retriever,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_521.JPEG
+Kiana,21,convnext_tiny,adv,English foxhound,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_2150.JPEG
+Kiana,22,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,English foxhound,English foxhound,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02089973/n02089973_80.JPEG
+Kiana,23,densenet121,adv,Dingo,Dingo,,stimuli/adv/densenet121/n02115641/n02115641_15420.JPEG
+Kiana,24,resnet18,adv,Golden retriever,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_8912.JPEG
+Kiana,25,resnet50,adv,Golden retriever,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_2092.JPEG
+Kiana,26,convnext_tiny,adv,Golden retriever,Rhodesian ridgeback,,stimuli/adv/convnext_tiny/n02087394/n02087394_10992.JPEG
+Kiana,27,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Beagle,Beagle,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02088364/n02088364_6211.JPEG
+Kiana,28,densenet121,adv,Golden retriever,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_2741.JPEG
+Kiana,29,resnet18,adv,Australian terrier,Australian terrier,,stimuli/adv/resnet18/n02096294/n02096294_4232.JPEG
+Kiana,30,none,clean,English foxhound,English foxhound,,stimuli/clean/n02089973/n02089973_1651.JPEG
+Kiana,31,resnet50,adv,English foxhound,English foxhound,,stimuli/adv/resnet50/n02089973/n02089973_6412.JPEG
+Kiana,32,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Border terrier,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_2312.JPEG
+Kiana,33,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Samoyed,Rhodesian ridgeback,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02087394/n02087394_10040.JPEG
+Kiana,34,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_13580.JPEG
+Kiana,35,none,clean,Australian terrier,Australian terrier,,stimuli/clean/n02096294/n02096294_830.JPEG
+Kiana,36,none,clean,Rhodesian ridgeback,Dingo,,stimuli/clean/n02115641/n02115641_6680.JPEG
+Kiana,37,resnet50,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/resnet50/n02086240/n02086240_262.JPEG
+Kiana,38,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Beagle,Beagle,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02088364/n02088364_1411.JPEG
+Kiana,39,convnext_tiny,adv,Border terrier,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_811.JPEG
+Kiana,40,none,clean,Australian terrier,Australian terrier,,stimuli/clean/n02096294/n02096294_411.JPEG
+Kiana,41,resnet50,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/resnet50/n02087394/n02087394_10880.JPEG
+Kiana,42,none,clean,Shih-Tzu,Shih-Tzu,,stimuli/clean/n02086240/n02086240_2.JPEG
+Kiana,43,none,clean,Old English sheepdog,Old English sheepdog,,stimuli/clean/n02105641/n02105641_14640.JPEG
+Kiana,44,resnet18,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet18/n02099601/n02099601_3221.JPEG
+Kiana,45,densenet121,adv,Beagle,Beagle,,stimuli/adv/densenet121/n02088364/n02088364_1341.JPEG
+Kiana,46,resnet18,adv,Dingo,Dingo,,stimuli/adv/resnet18/n02115641/n02115641_7620.JPEG
+Kiana,47,convnext_tiny,adv,Border terrier,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_3912.JPEG
+Kiana,48,resnet50,adv,Beagle,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_18180.JPEG
+Kiana,49,resnet50,adv,Golden retriever,Samoyed,,stimuli/adv/resnet50/n02111889/n02111889_11571.JPEG
+Kiana,50,resnet50,adv,Golden retriever,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_10692.JPEG
+Kiana,51,convnext_tiny,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/convnext_tiny/n02087394/n02087394_450.JPEG
+Kiana,52,resnet50,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/resnet50/n02086240/ILSVRC2012_val_00036602.JPEG
+Kiana,53,densenet121,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/densenet121/n02087394/n02087394_101.JPEG
+Kiana,54,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02099601/n02099601_1332.JPEG
+Kiana,55,densenet121,adv,Samoyed,Samoyed,,stimuli/adv/densenet121/n02111889/n02111889_2030.JPEG
+Kiana,56,resnet18,adv,English foxhound,English foxhound,,stimuli/adv/resnet18/n02089973/ILSVRC2012_val_00007850.JPEG
+Kiana,57,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_5832.JPEG
+Kiana,58,resnet50,adv,Beagle,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_4562.JPEG
+Kiana,59,densenet121,adv,Border terrier,Australian terrier,,stimuli/adv/densenet121/n02096294/n02096294_4991.JPEG
+Kiana,60,convnext_tiny,adv,Dingo,Dingo,,stimuli/adv/convnext_tiny/n02115641/n02115641_81.JPEG
+Kiana,61,densenet121,adv,Shih-Tzu,Samoyed,,stimuli/adv/densenet121/n02111889/n02111889_1791.JPEG
+Kiana,62,resnet18,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet18/n02099601/n02099601_5382.JPEG
+Kiana,63,none,clean,Beagle,Beagle,,stimuli/clean/n02088364/ILSVRC2012_val_00036340.JPEG
+Kiana,64,resnet50,adv,Beagle,Border terrier,,stimuli/adv/resnet50/n02093754/n02093754_4452.JPEG
+Kiana,65,convnext_tiny,adv,Shih-Tzu,Samoyed,,stimuli/adv/convnext_tiny/n02111889/n02111889_1822.JPEG
+Kiana,66,convnext_tiny,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/convnext_tiny/n02087394/n02087394_5650.JPEG
+Kiana,67,densenet121,adv,Border terrier,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_5192.JPEG
+Kiana,68,none,clean,Beagle,Beagle,,stimuli/clean/n02088364/n02088364_7062.JPEG
+Kiana,69,none,clean,Old English sheepdog,Old English sheepdog,,stimuli/clean/n02105641/n02105641_9321.JPEG
+Kiana,70,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Samoyed,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02111889/n02111889_9931.JPEG
+Kiana,71,densenet121,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/densenet121/n02105641/n02105641_10300.JPEG
+Kiana,72,none,clean,Dingo,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_29021.JPEG
+Kiana,73,none,clean,Shih-Tzu,Shih-Tzu,,stimuli/clean/n02086240/n02086240_11901.JPEG
+Kiana,74,resnet18,adv,Australian terrier,Australian terrier,,stimuli/adv/resnet18/n02096294/n02096294_2920.JPEG
+Kiana,75,convnext_tiny,adv,Beagle,Samoyed,,stimuli/adv/convnext_tiny/n02111889/n02111889_1890.JPEG
+Kiana,76,none,clean,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_14840.JPEG
+Kiana,77,resnet50,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_5641.JPEG
+Kiana,78,none,clean,Dingo,Australian terrier,,stimuli/clean/n02096294/n02096294_1160.JPEG
+Kiana,79,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02105641/n02105641_10861.JPEG
+Kiana,80,convnext_tiny,adv,English foxhound,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_7611.JPEG
+Kiana,81,none,clean,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_7480.JPEG
+Kiana,82,none,clean,Shih-Tzu,Shih-Tzu,,stimuli/clean/n02086240/n02086240_2961.JPEG
+Kiana,83,none,clean,Beagle,Golden retriever,,stimuli/clean/n02099601/n02099601_6422.JPEG
+Kiana,84,none,clean,Old English sheepdog,Samoyed,,stimuli/clean/n02111889/n02111889_1660.JPEG
+Kiana,85,densenet121,adv,Beagle,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_8061.JPEG
+Kiana,86,convnext_tiny,adv,English foxhound,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_4960.JPEG
+Kiana,87,convnext_tiny,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_tiny/n02099601/n02099601_6272.JPEG
+Kiana,88,resnet18,adv,Beagle,Beagle,,stimuli/adv/resnet18/n02088364/n02088364_5481.JPEG
+Kiana,89,resnet18,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/resnet18/n02086240/n02086240_870.JPEG
+Kiana,90,resnet50,adv,Dingo,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_22391.JPEG
+Kiana,91,resnet18,adv,Rhodesian ridgeback,Dingo,,stimuli/adv/resnet18/n02115641/n02115641_6161.JPEG
+Kiana,92,convnext_tiny,adv,Beagle,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_4420.JPEG
+Kiana,93,resnet50,adv,Dingo,Dingo,,stimuli/adv/resnet50/n02115641/n02115641_11001.JPEG
+Kiana,94,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Australian terrier,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_1161.JPEG
+Kiana,95,none,clean,Golden retriever,Golden retriever,,stimuli/clean/n02099601/n02099601_3402.JPEG
+Kiana,96,none,clean,Golden retriever,English foxhound,,stimuli/clean/n02089973/n02089973_980.JPEG
+Kiana,97,densenet121,adv,Border terrier,Australian terrier,,stimuli/adv/densenet121/n02096294/n02096294_6911.JPEG
+Kiana,98,resnet50,adv,Border terrier,Beagle,,stimuli/adv/resnet50/n02088364/n02088364_4770.JPEG
+Kiana,99,resnet18,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/resnet18/n02086240/n02086240_8600.JPEG
+Kimia,0,densenet121,adv,Dingo,Dingo,,stimuli/adv/densenet121/n02115641/n02115641_7360.JPEG
+Kimia,1,densenet121,adv,Old English sheepdog,Samoyed,,stimuli/adv/densenet121/n02111889/n02111889_13580.JPEG
+Kimia,2,resnet50,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_2741.JPEG
+Kimia,3,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02086240/n02086240_2961.JPEG
+Kimia,4,resnet50,adv,Dingo,Golden retriever,,stimuli/adv/resnet50/n02099601/n02099601_3221.JPEG
+Kimia,5,densenet121,adv,Dingo,Dingo,,stimuli/adv/densenet121/n02115641/n02115641_11001.JPEG
+Kimia,6,none,clean,Australian terrier,Australian terrier,,stimuli/clean/n02096294/n02096294_2920.JPEG
+Kimia,7,none,clean,Old English sheepdog,Golden retriever,,stimuli/clean/n02099601/n02099601_521.JPEG
+Kimia,8,resnet18,adv,Beagle,Beagle,,stimuli/adv/resnet18/n02088364/n02088364_1411.JPEG
+Kimia,9,none,clean,English foxhound,English foxhound,,stimuli/clean/n02089973/n02089973_80.JPEG
+Kimia,10,resnet18,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet18/n02099601/n02099601_1332.JPEG
+Kimia,11,none,clean,Beagle,Beagle,,stimuli/clean/n02088364/n02088364_7062.JPEG
+Kimia,12,resnet18,adv,Samoyed,Samoyed,,stimuli/adv/resnet18/n02111889/n02111889_2030.JPEG
+Kimia,13,none,clean,Shih-Tzu,Shih-Tzu,,stimuli/clean/n02086240/n02086240_262.JPEG
+Kimia,14,resnet50,adv,Shih-Tzu,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_14402.JPEG
+Kimia,15,densenet121,adv,Beagle,Beagle,,stimuli/adv/densenet121/n02088364/n02088364_6211.JPEG
+Kimia,16,resnet18,adv,English foxhound,Border terrier,,stimuli/adv/resnet18/n02093754/n02093754_2312.JPEG
+Kimia,17,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02087394/n02087394_10040.JPEG
+Kimia,18,convnext_tiny,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/convnext_tiny/n02086240/n02086240_12501.JPEG
+Kimia,19,densenet121,adv,Beagle,English foxhound,,stimuli/adv/densenet121/n02089973/n02089973_4960.JPEG
+Kimia,20,none,clean,Old English sheepdog,Old English sheepdog,,stimuli/clean/n02105641/n02105641_1380.JPEG
+Kimia,21,none,clean,Dingo,Border terrier,,stimuli/clean/n02093754/n02093754_2342.JPEG
+Kimia,22,densenet121,adv,Dingo,Dingo,,stimuli/adv/densenet121/n02115641/n02115641_22391.JPEG
+Kimia,23,convnext_tiny,adv,Australian terrier,Border terrier,,stimuli/adv/convnext_tiny/n02093754/n02093754_5192.JPEG
+Kimia,24,convnext_tiny,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_10861.JPEG
+Kimia,25,none,clean,Australian terrier,Australian terrier,,stimuli/clean/n02096294/n02096294_4991.JPEG
+Kimia,26,none,clean,Old English sheepdog,Shih-Tzu,,stimuli/clean/n02086240/n02086240_8600.JPEG
+Kimia,27,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Beagle,Beagle,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02088364/n02088364_3872.JPEG
+Kimia,28,none,clean,Dingo,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_450.JPEG
+Kimia,29,none,clean,Rhodesian ridgeback,English foxhound,,stimuli/clean/n02089973/ILSVRC2012_val_00007850.JPEG
+Kimia,30,densenet121,adv,Golden retriever,Golden retriever,,stimuli/adv/densenet121/n02099601/n02099601_6422.JPEG
+Kimia,31,convnext_tiny,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/convnext_tiny/n02086240/ILSVRC2012_val_00036602.JPEG
+Kimia,32,resnet50,adv,Shih-Tzu,Samoyed,,stimuli/adv/resnet50/n02111889/n02111889_1791.JPEG
+Kimia,33,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Australian terrier,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_1882.JPEG
+Kimia,34,resnet50,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_10300.JPEG
+Kimia,35,none,clean,Beagle,Beagle,,stimuli/clean/n02088364/n02088364_7281.JPEG
+Kimia,36,densenet121,adv,English foxhound,Dingo,,stimuli/adv/densenet121/n02115641/n02115641_6680.JPEG
+Kimia,37,none,clean,English foxhound,Beagle,,stimuli/clean/n02088364/n02088364_1341.JPEG
+Kimia,38,densenet121,adv,English foxhound,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_3912.JPEG
+Kimia,39,resnet50,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_14640.JPEG
+Kimia,40,convnext_tiny,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/convnext_tiny/n02087394/n02087394_29021.JPEG
+Kimia,41,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02086240/n02086240_870.JPEG
+Kimia,42,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Beagle,English foxhound,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02089973/n02089973_3312.JPEG
+Kimia,43,convnext_tiny,adv,Beagle,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_2092.JPEG
+Kimia,44,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Australian terrier,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_411.JPEG
+Kimia,45,resnet50,adv,Golden retriever,Rhodesian ridgeback,,stimuli/adv/resnet50/n02087394/n02087394_8912.JPEG
+Kimia,46,convnext_tiny,adv,Golden retriever,Rhodesian ridgeback,,stimuli/adv/convnext_tiny/n02087394/n02087394_7480.JPEG
+Kimia,47,densenet121,adv,Shih-Tzu,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_7370.JPEG
+Kimia,48,none,clean,Beagle,English foxhound,,stimuli/clean/n02089973/n02089973_3571.JPEG
+Kimia,49,none,clean,Old English sheepdog,Rhodesian ridgeback,,stimuli/clean/n02087394/n02087394_101.JPEG
+Kimia,50,densenet121,adv,Samoyed,Samoyed,,stimuli/adv/densenet121/n02111889/n02111889_5832.JPEG
+Kimia,51,resnet50,adv,Samoyed,Samoyed,,stimuli/adv/resnet50/n02111889/n02111889_1660.JPEG
+Kimia,52,resnet18,adv,Rhodesian ridgeback,Rhodesian ridgeback,,stimuli/adv/resnet18/n02087394/n02087394_10880.JPEG
+Kimia,53,densenet121,adv,Shih-Tzu,Old English sheepdog,,stimuli/adv/densenet121/n02105641/n02105641_10692.JPEG
+Kimia,54,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Border terrier,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_3152.JPEG
+Kimia,55,convnext_tiny,adv,Dingo,Dingo,,stimuli/adv/convnext_tiny/n02115641/n02115641_6940.JPEG
+Kimia,56,densenet121,adv,English foxhound,Border terrier,,stimuli/adv/densenet121/n02093754/n02093754_811.JPEG
+Kimia,57,resnet50,adv,Golden retriever,Australian terrier,,stimuli/adv/resnet50/n02096294/n02096294_3971.JPEG
+Kimia,58,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Australian terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02096294/n02096294_6911.JPEG
+Kimia,59,resnet18,adv,Beagle,Beagle,,stimuli/adv/resnet18/n02088364/n02088364_4562.JPEG
+Kimia,60,convnext_tiny,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/convnext_tiny/n02087394/n02087394_14840.JPEG
+Kimia,61,densenet121,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/densenet121/n02087394/n02087394_5650.JPEG
+Kimia,62,resnet18,adv,Beagle,English foxhound,,stimuli/adv/resnet18/n02089973/n02089973_8061.JPEG
+Kimia,63,resnet18,adv,Shih-Tzu,Samoyed,,stimuli/adv/resnet18/n02111889/n02111889_11571.JPEG
+Kimia,64,none,clean,Shih-Tzu,Shih-Tzu,,stimuli/clean/n02086240/n02086240_2.JPEG
+Kimia,65,densenet121,adv,Old English sheepdog,Old English sheepdog,,stimuli/adv/densenet121/n02105641/n02105641_9321.JPEG
+Kimia,66,convnext_tiny,adv,English foxhound,English foxhound,,stimuli/adv/convnext_tiny/n02089973/n02089973_2150.JPEG
+Kimia,67,convnext_tiny,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_tiny/n02099601/n02099601_10560.JPEG
+Kimia,68,convnext_tiny,adv,English foxhound,Dingo,,stimuli/adv/convnext_tiny/n02115641/n02115641_18180.JPEG
+Kimia,69,resnet50,adv,Beagle,Border terrier,,stimuli/adv/resnet50/n02093754/n02093754_4420.JPEG
+Kimia,70,none,clean,Dingo,Dingo,,stimuli/clean/n02115641/n02115641_15420.JPEG
+Kimia,71,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_9931.JPEG
+Kimia,72,resnet18,adv,Rhodesian ridgeback,Australian terrier,,stimuli/adv/resnet18/n02096294/n02096294_4232.JPEG
+Kimia,73,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Border terrier,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02093754/n02093754_4452.JPEG
+Kimia,74,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,English foxhound,Golden retriever,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02099601/n02099601_5641.JPEG
+Kimia,75,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Golden retriever,Dingo,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02115641/n02115641_7620.JPEG
+Kimia,76,resnet50,adv,Beagle,English foxhound,,stimuli/adv/resnet50/n02089973/n02089973_6412.JPEG
+Kimia,77,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,English foxhound,Beagle,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02088364/n02088364_4770.JPEG
+Kimia,78,none,clean,Rhodesian ridgeback,English foxhound,,stimuli/clean/n02089973/n02089973_980.JPEG
+Kimia,79,convnext_tiny,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_tiny/n02099601/n02099601_6272.JPEG
+Kimia,80,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_3221.JPEG
+Kimia,81,resnet50,adv,Dingo,Rhodesian ridgeback,,stimuli/adv/resnet50/n02087394/n02087394_10992.JPEG
+Kimia,82,none,clean,Golden retriever,Dingo,,stimuli/clean/n02115641/n02115641_6161.JPEG
+Kimia,83,resnet18,adv,Golden retriever,Golden retriever,,stimuli/adv/resnet18/n02099601/n02099601_3402.JPEG
+Kimia,84,resnet18,adv,Australian terrier,Australian terrier,,stimuli/adv/resnet18/n02096294/n02096294_10190.JPEG
+Kimia,85,resnet18,adv,English foxhound,English foxhound,,stimuli/adv/resnet18/n02089973/n02089973_1651.JPEG
+Kimia,86,resnet18,adv,Shih-Tzu,Australian terrier,,stimuli/adv/resnet18/n02096294/n02096294_1161.JPEG
+Kimia,87,none,clean,Shih-Tzu,Shih-Tzu,,stimuli/clean/n02086240/n02086240_11901.JPEG
+Kimia,88,convnext_tiny,adv,Golden retriever,Golden retriever,,stimuli/adv/convnext_tiny/n02099601/n02099601_5382.JPEG
+Kimia,89,resnet50,adv,Australian terrier,Australian terrier,,stimuli/adv/resnet50/n02096294/n02096294_1160.JPEG
+Kimia,90,none,clean,Shih-Tzu,Shih-Tzu,,stimuli/clean/n02086240/n02086240_12122.JPEG
+Kimia,91,convnext_tiny,adv,Samoyed,Old English sheepdog,,stimuli/adv/convnext_tiny/n02105641/n02105641_8281.JPEG
+Kimia,92,resnet18,adv,Dingo,Australian terrier,,stimuli/adv/resnet18/n02096294/n02096294_830.JPEG
+Kimia,93,none,clean,Beagle,Beagle,,stimuli/clean/n02088364/ILSVRC2012_val_00036340.JPEG
+Kimia,94,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,Shih-Tzu,Shih-Tzu,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02086240/n02086240_7261.JPEG
+Kimia,95,resnet50,adv,Samoyed,Old English sheepdog,,stimuli/adv/resnet50/n02105641/n02105641_7611.JPEG
+Kimia,96,resnet18,adv,Rhodesian ridgeback,Dingo,,stimuli/adv/resnet18/n02115641/n02115641_81.JPEG
+Kimia,97,resnet50,adv,Samoyed,Samoyed,,stimuli/adv/resnet50/n02111889/n02111889_1890.JPEG
+Kimia,98,none,clean,Samoyed,Samoyed,,stimuli/clean/n02111889/n02111889_1822.JPEG
+Kimia,99,convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384,adv,English foxhound,Beagle,,stimuli/adv/convnext_large_mlp.clip_laion2b_augreg_ft_in1k_384/n02088364/n02088364_5481.JPEG

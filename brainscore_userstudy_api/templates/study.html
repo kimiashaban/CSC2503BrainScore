@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dog Breed Study</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; }
+    img { max-width: 400px; border: 2px solid #444; margin: 20px; display: none; }
+    .btn { 
+        padding: 10px 20px; 
+        font-size: 18px; 
+        margin: 6px;
+        width: 300px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #options { margin-top: 20px; display: none; }
+  </style>
+</head>
+
+<body>
+
+<h2>Dog Breed Identification Study</h2>
+
+<!-- NAME ENTRY SCREEN -->
+<div id="name-screen">
+    <p>Please enter your name to begin:</p>
+    <input id="name-input" type="text" style="font-size:20px; padding:5px;">
+    <br><br>
+    <button onclick="startStudy()" class="btn">Begin</button>
+</div>
+
+<!-- STUDY SCREEN -->
+<div id="study-screen" style="display:none;">
+    <h3 id="trial-count"></h3>
+    <img id="stimulus" src=""/>
+    <div id="options"></div>
+</div>
+
+<script>
+const API = "http://127.0.0.1:8000";
+let PID = null;
+
+// fixed MCQ order
+const FIXED_ORDER = [
+    "Shih-Tzu",
+    "Rhodesian ridgeback",
+    "Beagle",
+    "English foxhound",
+    "Border terrier",
+    "Australian terrier",
+    "Golden retriever",
+    "Old English sheepdog",
+    "Samoyed",
+    "Dingo"
+];
+
+function startStudy() {
+    const name = document.getElementById("name-input").value.trim();
+    if (!name) {
+        alert("Please enter your name.");
+        return;
+    }
+
+    PID = name;
+
+    document.getElementById("name-screen").style.display = "none";
+    document.getElementById("study-screen").style.display = "block";
+
+    loadTrial();
+}
+
+async function loadTrial() {
+
+    let r = await fetch(API + "/trial?participant_name=" + PID);
+    let data = await r.json();
+
+    if (data.done) {
+        document.getElementById("study-screen").innerHTML =
+            "<h2>Study complete — thank you!</h2>";
+        return;
+    }
+
+    window.current = data;
+
+    document.getElementById("trial-count").innerHTML =
+        "Trial " + (data.trial_id + 1) + " / 100";
+
+    const img = document.getElementById("stimulus");
+    const opts = document.getElementById("options");
+
+    // hide buttons
+    opts.style.display = "none";
+    img.style.display = "none";
+
+    // load the image
+    img.src = API + "/" + data.img_url;
+
+    // show image for 250 ms
+    setTimeout(() => {
+        img.style.display = "block";
+
+        setTimeout(() => {
+            img.style.display = "none";
+            showOptions();
+        }, 250);
+
+    }, 200);
+}
+
+function showOptions() {
+    const opts = document.getElementById("options");
+    opts.innerHTML = "";
+
+    FIXED_ORDER.forEach(label => {
+        const btn = document.createElement("button");
+        btn.className = "btn";
+        btn.innerText = label;
+        btn.onclick = () => answer(label);
+        opts.appendChild(btn);
+    });
+
+    opts.style.display = "block";
+}
+
+async function answer(label) {
+    await fetch(API + "/response", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({
+            participant_name: PID,
+            trial_id: current.trial_id,
+            model: current.model,
+            condition: current.condition,
+            response: label,
+            true_label: current.true_label,
+            target_label: current.target_label,
+            img_url: current.img_url
+        })
+    });
+
+    loadTrial();
+}
+</script>
+</body>
+</html>
